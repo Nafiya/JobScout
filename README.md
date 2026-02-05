@@ -83,7 +83,6 @@ Click **Fork** on GitHub to create your own copy.
 ---
 
 ### 2️⃣ Update Job Preferences
-
 Edit the configuration file:
 
 ```json
@@ -92,6 +91,24 @@ Edit the configuration file:
   "job_titles": ["Senior Software Engineer", "Backend Developer"],
   "companies": ["Google", "Amazon", "Microsoft"],
   "
+### 3️⃣ Configure Schedule (Optional)
+Edit .github/workflows/jobscout.yml to control how often the job runs:
+
+schedule:
+  - cron: "0 8 * * 1-5"
+
+### 4️⃣ Enable GitHub Actions
+	•	Push your changes
+	•	Go to the Actions tab
+	•	Enable workflows if prompted
+
+JobScout will now run automatically.
+
+### 5️⃣ Run Locally (Optional)
+For testing or development:
+
+pip install -r requirements.txt
+python src/main.py
 
 
 
