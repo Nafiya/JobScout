@@ -1,0 +1,45 @@
+name: Job Fetch Agent
+
+on:
+  schedule:
+    # Runs every 30 minutes (free tier friendly)
+    - cron: "*/30 * * * *"
+  workflow_dispatch: # Allow manual trigger from GitHub UI
+
+jobs:
+  fetch-jobs:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Restore jobs database cache
+        uses: actions/cache@v4
+        with:
+          path: jobs.db
+          key: jobs-db-${{ github.run_id }}
+          restore-keys: |
+            jobs-db-
+
+      - name: Create .env from secrets
+        run: |
+          cat <<EOF > .env
+          SMTP_SENDER_EMAIL=${{ secrets.SMTP_SENDER_EMAIL }}
+          SMTP_SENDER_PASSWORD=${{ secrets.SMTP_SENDER_PASSWORD }}
+          SMTP_RECIPIENT_EMAIL=${{ secrets.SMTP_RECIPIENT_EMAIL }}
+          WHATSAPP_API_TOKEN=${{ secrets.WHATSAPP_API_TOKEN }}
+          WHATSAPP_PHONE_NUMBER_ID=${{ secrets.WHATSAPP_PHONE_NUMBER_ID }}
+          WHATSAPP_RECIPIENT_PHONE=${{ secrets.WHATSAPP_RECIPIENT_PHONE }}
+          EOF
+
+      - name: Run job agent (single cycle)
+        run: python main.py --once

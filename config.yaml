@@ -1,0 +1,70 @@
+criteria:
+  keywords:
+    - "Java developer"
+    - "backend engineer"
+    - "Lead Java developer"
+    - "Senior Java developer"
+    - "full stack developer"
+    - "Senior software engineer"
+  skills:
+    - "Java"
+    - "Spring Boot"
+    - "REST API"
+    - "GraphQL"
+    - "Docker"
+    - "Kubernetes"
+    - "Express"
+    - "NodeJs"
+    - "CICD"
+    - "GitHub Actions"
+    - "Azure"
+    - "Cloud"
+    - "Angular"
+    - "Full Stack"
+    - "MongoDB"
+    - "AWS"
+    - "Cassandra"
+    - "MySQL"
+    - "PostgreSQL"
+    - "Redis"
+    - "Caching"
+    - "Agile"
+    - "JavaScript"
+    - "TypeScript"
+    - "Terraform"
+    - "Dynatrace"
+    - "Kafka"
+    - "Spark"
+    - "Flink"
+  companies:
+    - "Google"
+    - "Microsoft"
+    - "Amazon"
+    - "CIBC"
+    - "Clio"
+    - "Citi"
+    - "TD"
+    - "Manulife"
+    - "TD"
+    - "RBC"
+    - "Deloitte"
+    - "Pwc"
+    - "Cisco"
+    - "Affirm"
+    - "CGI"
+  location: "Toronto"
+  experience_level: "mid-senior"   # entry, mid-senior, director
+  job_type: "full-time"            # full-time, part-time, contract, remote
+
+match_threshold: 70  # percentage (0-100)
+
+schedule:
+  interval_minutes: 5
+
+notifications:
+  email:
+    enabled: true
+    smtp_server: "smtp.gmail.com"
+    smtp_port: 587
+  whatsapp:
+    enabled: false   # enable later if you set up Meta WhatsApp Cloud API

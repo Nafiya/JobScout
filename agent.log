@@ -1,0 +1,894 @@
+2026-02-04 23:20:39 [INFO] job-agent: LinkedIn Job Fetch Agent started
+2026-02-04 23:20:39 [INFO] job-agent: Checking every 5 minute(s)
+2026-02-04 23:20:39 [INFO] job-agent: Keywords: ['python developer', 'backend engineer', 'fastapi', 'django']
+2026-02-04 23:20:39 [INFO] job-agent: Companies: ['Google', 'Microsoft', 'Amazon']
+2026-02-04 23:20:39 [INFO] job-agent: Match threshold: 90%
+2026-02-04 23:20:39 [INFO] job-agent: ============================================================
+2026-02-04 23:20:39 [INFO] job-agent: Starting job fetch cycle
+2026-02-04 23:21:08 [INFO] scraper: Found 25 jobs for query 'python developer'
+2026-02-04 23:21:37 [INFO] scraper: Found 25 jobs for query 'backend engineer'
+2026-02-04 23:22:07 [INFO] scraper: Found 25 jobs for query 'fastapi'
+2026-02-04 23:22:37 [INFO] scraper: Found 25 jobs for query 'django'
+2026-02-04 23:23:04 [INFO] scraper: Found 25 jobs for query 'Google'
+2026-02-04 23:23:34 [INFO] scraper: Found 25 jobs for query 'Microsoft'
+2026-02-04 23:24:02 [INFO] scraper: Found 25 jobs for query 'Amazon'
+2026-02-04 23:24:02 [INFO] scraper: Fetched 144 unique jobs total
+2026-02-04 23:24:02 [INFO] matcher: 0 jobs matched out of 144 (threshold: 90%)
+2026-02-04 23:24:02 [INFO] job-agent: No jobs matched the threshold this cycle
+2026-02-04 23:26:53 [INFO] job-agent: Agent stopped by user
+2026-02-04 23:42:23 [INFO] job-agent: LinkedIn Job Fetch Agent started
+2026-02-04 23:42:23 [INFO] job-agent: Checking every 5 minute(s)
+2026-02-04 23:42:23 [INFO] job-agent: Keywords: ['python developer', 'backend engineer', 'fastapi', 'django']
+2026-02-04 23:42:23 [INFO] job-agent: Companies: ['Google', 'Microsoft', 'Amazon']
+2026-02-04 23:42:23 [INFO] job-agent: Match threshold: 90%
+2026-02-04 23:42:23 [INFO] job-agent: ============================================================
+2026-02-04 23:42:23 [INFO] job-agent: Starting job fetch cycle
+2026-02-04 23:42:54 [INFO] scraper: Found 25 jobs for query 'python developer'
+2026-02-04 23:43:26 [INFO] scraper: Found 25 jobs for query 'backend engineer'
+2026-02-04 23:44:00 [INFO] scraper: Found 25 jobs for query 'fastapi'
+2026-02-04 23:44:33 [INFO] scraper: Found 25 jobs for query 'django'
+2026-02-04 23:45:02 [INFO] scraper: Found 25 jobs for query 'Google'
+2026-02-04 23:45:30 [INFO] scraper: Found 25 jobs for query 'Microsoft'
+2026-02-04 23:46:08 [INFO] scraper: Found 25 jobs for query 'Amazon'
+2026-02-04 23:46:08 [INFO] scraper: Fetched 144 unique jobs total
+2026-02-04 23:46:08 [INFO] matcher: 0 jobs matched out of 144 (threshold: 90%)
+2026-02-04 23:46:08 [INFO] job-agent: No jobs matched the threshold this cycle
+2026-02-04 23:49:07 [INFO] job-agent: Agent stopped by user
+2026-02-04 23:49:10 [INFO] job-agent: LinkedIn Job Fetch Agent started
+2026-02-04 23:49:10 [INFO] job-agent: Checking every 5 minute(s)
+2026-02-04 23:49:10 [INFO] job-agent: Keywords: ['Java developer', 'backend engineer', 'Lead Java developer', 'Senior Java developer', 'full stack developer', 'Senior software engineer']
+2026-02-04 23:49:10 [INFO] job-agent: Companies: ['Google', 'Microsoft', 'Amazon', 'CIBC', 'Clio', 'Citi', 'TD', 'Manulife', 'TD', 'RBC', 'Deloitte', 'Pwc', 'Cisco', 'Affirm', 'CGI']
+2026-02-04 23:49:10 [INFO] job-agent: Match threshold: 90%
+2026-02-04 23:49:10 [INFO] job-agent: ============================================================
+2026-02-04 23:49:10 [INFO] job-agent: Starting job fetch cycle
+2026-02-04 23:49:38 [INFO] scraper: Found 25 jobs for query 'Java developer'
+2026-02-04 23:50:13 [INFO] scraper: Found 23 jobs for query 'backend engineer'
+2026-02-04 23:50:43 [INFO] scraper: Found 25 jobs for query 'Lead Java developer'
+2026-02-04 23:51:12 [INFO] scraper: Found 25 jobs for query 'Senior Java developer'
+2026-02-04 23:51:39 [INFO] scraper: Found 20 jobs for query 'full stack developer'
+2026-02-04 23:52:07 [INFO] scraper: Found 25 jobs for query 'Senior software engineer'
+2026-02-04 23:52:36 [INFO] scraper: Found 25 jobs for query 'Google'
+2026-02-04 23:53:05 [INFO] scraper: Found 25 jobs for query 'Microsoft'
+2026-02-04 23:53:35 [INFO] scraper: Found 25 jobs for query 'Amazon'
+2026-02-04 23:54:08 [INFO] scraper: Found 24 jobs for query 'CIBC'
+2026-02-04 23:54:28 [INFO] scraper: Found 12 jobs for query 'Clio'
+2026-02-04 23:54:39 [INFO] scraper: Found 6 jobs for query 'Citi'
+2026-02-04 23:55:09 [INFO] scraper: Found 25 jobs for query 'TD'
+2026-02-04 23:55:43 [INFO] scraper: Found 15 jobs for query 'Manulife'
+2026-02-04 23:56:12 [INFO] scraper: Found 25 jobs for query 'TD'
+2026-02-04 23:56:26 [INFO] job-agent: LinkedIn Job Fetch Agent started
+2026-02-04 23:56:26 [INFO] job-agent: Checking every 5 minute(s)
+2026-02-04 23:56:26 [INFO] job-agent: Keywords: ['Java developer', 'backend engineer', 'Lead Java developer', 'Senior Java developer', 'full stack developer', 'Senior software engineer']
+2026-02-04 23:56:26 [INFO] job-agent: Companies: ['Google', 'Microsoft', 'Amazon', 'CIBC', 'Clio', 'Citi', 'TD', 'Manulife', 'TD', 'RBC', 'Deloitte', 'Pwc', 'Cisco', 'Affirm', 'CGI']
+2026-02-04 23:56:26 [INFO] job-agent: Match threshold: 70%
+2026-02-04 23:56:26 [INFO] job-agent: ============================================================
+2026-02-04 23:56:26 [INFO] job-agent: Starting job fetch cycle
+2026-02-04 23:56:54 [INFO] scraper: Found 25 jobs for query 'Java developer'
+2026-02-04 23:57:26 [INFO] scraper: Found 23 jobs for query 'backend engineer'
+2026-02-04 23:57:55 [INFO] scraper: Found 25 jobs for query 'Lead Java developer'
+2026-02-04 23:58:28 [INFO] scraper: Found 25 jobs for query 'Senior Java developer'
+2026-02-04 23:59:06 [INFO] scraper: Found 21 jobs for query 'full stack developer'
+2026-02-04 23:59:37 [INFO] scraper: Found 25 jobs for query 'Senior software engineer'
+2026-02-05 00:00:09 [INFO] job-agent: LinkedIn Job Fetch Agent started
+2026-02-05 00:00:09 [INFO] job-agent: Checking every 5 minute(s)
+2026-02-05 00:00:09 [INFO] job-agent: Keywords: ['Java developer', 'backend engineer', 'Lead Java developer', 'Senior Java developer', 'full stack developer', 'Senior software engineer']
+2026-02-05 00:00:09 [INFO] job-agent: Companies: ['Google', 'Microsoft', 'Amazon', 'CIBC', 'Clio', 'Citi', 'TD', 'Manulife', 'TD', 'RBC', 'Deloitte', 'Pwc', 'Cisco', 'Affirm', 'CGI']
+2026-02-05 00:00:09 [INFO] job-agent: Match threshold: 70%
+2026-02-05 00:00:09 [INFO] job-agent: ============================================================
+2026-02-05 00:00:09 [INFO] job-agent: Starting job fetch cycle
+2026-02-05 00:00:09 [INFO] scraper: Built 21 combined search queries
+2026-02-05 00:00:09 [INFO] scraper: No results for query 'Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 00:00:09 [INFO] scraper: No results for query 'backend engineer Java Spring Boot REST API GraphQL'
+2026-02-05 00:00:10 [INFO] scraper: No results for query 'Lead Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 00:00:11 [INFO] scraper: No results for query 'Senior Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 00:00:11 [INFO] scraper: No results for query 'full stack developer Java Spring Boot REST API GraphQL'
+2026-02-05 00:00:11 [INFO] scraper: No results for query 'Senior software engineer Java Spring Boot REST API GraphQL'
+2026-02-05 00:00:18 [INFO] scraper: Found 2 jobs for query 'Java developer Google'
+2026-02-05 00:00:26 [INFO] scraper: Found 3 jobs for query 'Java developer Microsoft'
+2026-02-05 00:00:35 [INFO] scraper: Found 4 jobs for query 'Java developer Amazon'
+2026-02-05 00:00:41 [INFO] scraper: Found 1 jobs for query 'Java developer CIBC'
+2026-02-05 00:00:42 [INFO] scraper: No results for query 'Java developer Clio'
+2026-02-05 00:00:49 [INFO] scraper: Found 2 jobs for query 'Java developer Citi'
+2026-02-05 00:00:55 [INFO] scraper: Found 1 jobs for query 'Java developer TD'
+2026-02-05 00:00:56 [INFO] scraper: No results for query 'Java developer Manulife'
+2026-02-05 00:01:03 [INFO] scraper: Found 1 jobs for query 'Java developer TD'
+2026-02-05 00:01:12 [INFO] scraper: Found 4 jobs for query 'Java developer RBC'
+2026-02-05 00:01:12 [INFO] scraper: No results for query 'Java developer Deloitte'
+2026-02-05 00:01:13 [INFO] scraper: No results for query 'Java developer Pwc'
+2026-02-05 00:01:13 [INFO] scraper: No results for query 'Java developer Cisco'
+2026-02-05 00:01:14 [INFO] scraper: No results for query 'Java developer Affirm'
+2026-02-05 00:01:21 [INFO] scraper: Found 2 jobs for query 'Java developer CGI'
+2026-02-05 00:01:21 [INFO] scraper: Fetched 16 unique jobs total
+2026-02-05 00:01:21 [INFO] matcher: MATCH: 'Fullstack Developer - Java, Springboot, Angular' at 'TD Securities' — 89.2%
+2026-02-05 00:01:21 [INFO] matcher: MATCH: 'Lead Full Stack Developer' at 'RBC' — 86.7%
+2026-02-05 00:01:21 [INFO] matcher: MATCH: 'Senior Full Stack Engineer' at 'OPENLANE' — 78.6%
+2026-02-05 00:01:21 [INFO] matcher: MATCH: 'Tech Lead Full Stack Developer- Java, Angular' at 'RBC' — 86.7%
+2026-02-05 00:01:21 [INFO] matcher: MATCH: 'Senior Full Stack Java Developer' at 'Citi' — 81.7%
+2026-02-05 00:01:21 [INFO] matcher: MATCH: 'Lead Full Stack Java Developer' at 'Citi' — 81.7%
+2026-02-05 00:01:21 [INFO] matcher: MATCH: 'Senior Full Stack Developer' at 'RBC' — 86.7%
+2026-02-05 00:01:21 [INFO] matcher: MATCH: 'Lead Java Developer' at 'CGI' — 88.3%
+2026-02-05 00:01:21 [INFO] matcher: MATCH: 'Full Stack Developer (Angular and AWS)' at 'CGI' — 86.7%
+2026-02-05 00:01:21 [INFO] matcher: 9 jobs matched out of 16 (threshold: 70%)
+2026-02-05 00:01:21 [INFO] job-agent: 9 new matching job(s) to notify about
+2026-02-05 00:01:21 [ERROR] notifier: Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials af79cd13be357-8ca2fa821b7sm352064085a.20 - gsmtp')
+2026-02-05 00:01:43 [INFO] notifier: WhatsApp message sent via pywhatkit
+2026-02-05 00:01:43 [INFO] storage: Stored job: Fullstack Developer - Java, Springboot, Angular at TD Securities (score: 89.2%)
+2026-02-05 00:01:43 [INFO] storage: Stored job: Lead Full Stack Developer at RBC (score: 86.7%)
+2026-02-05 00:01:43 [INFO] storage: Stored job: Senior Full Stack Engineer at OPENLANE (score: 78.6%)
+2026-02-05 00:01:43 [INFO] storage: Stored job: Tech Lead Full Stack Developer- Java, Angular at RBC (score: 86.7%)
+2026-02-05 00:01:43 [INFO] storage: Stored job: Senior Full Stack Java Developer at Citi (score: 81.7%)
+2026-02-05 00:01:43 [INFO] storage: Stored job: Lead Full Stack Java Developer at Citi (score: 81.7%)
+2026-02-05 00:01:43 [INFO] storage: Stored job: Senior Full Stack Developer at RBC (score: 86.7%)
+2026-02-05 00:01:43 [INFO] storage: Stored job: Lead Java Developer at CGI (score: 88.3%)
+2026-02-05 00:01:43 [INFO] storage: Stored job: Full Stack Developer (Angular and AWS) at CGI (score: 86.7%)
+2026-02-05 00:01:43 [INFO] job-agent: Cycle complete
+2026-02-05 00:06:43 [INFO] job-agent: ============================================================
+2026-02-05 00:06:43 [INFO] job-agent: Starting job fetch cycle
+2026-02-05 00:06:43 [INFO] scraper: Built 21 combined search queries
+2026-02-05 00:06:43 [INFO] scraper: No results for query 'Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 00:06:44 [INFO] scraper: No results for query 'backend engineer Java Spring Boot REST API GraphQL'
+2026-02-05 00:06:44 [INFO] scraper: No results for query 'Lead Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 00:06:44 [INFO] scraper: No results for query 'Senior Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 00:06:44 [INFO] scraper: No results for query 'full stack developer Java Spring Boot REST API GraphQL'
+2026-02-05 00:06:45 [INFO] scraper: No results for query 'Senior software engineer Java Spring Boot REST API GraphQL'
+2026-02-05 00:06:52 [INFO] scraper: Found 2 jobs for query 'Java developer Google'
+2026-02-05 00:07:00 [INFO] scraper: Found 3 jobs for query 'Java developer Microsoft'
+2026-02-05 00:07:09 [INFO] scraper: Found 4 jobs for query 'Java developer Amazon'
+2026-02-05 00:07:17 [INFO] scraper: Found 1 jobs for query 'Java developer CIBC'
+2026-02-05 00:07:17 [INFO] scraper: No results for query 'Java developer Clio'
+2026-02-05 00:07:25 [INFO] scraper: Found 2 jobs for query 'Java developer Citi'
+2026-02-05 00:07:31 [INFO] scraper: Found 1 jobs for query 'Java developer TD'
+2026-02-05 00:07:32 [INFO] scraper: No results for query 'Java developer Manulife'
+2026-02-05 00:07:39 [INFO] scraper: Found 1 jobs for query 'Java developer TD'
+2026-02-05 00:07:48 [INFO] scraper: Found 4 jobs for query 'Java developer RBC'
+2026-02-05 00:07:49 [INFO] scraper: No results for query 'Java developer Deloitte'
+2026-02-05 00:07:49 [INFO] scraper: No results for query 'Java developer Pwc'
+2026-02-05 00:07:49 [INFO] scraper: No results for query 'Java developer Cisco'
+2026-02-05 00:07:50 [INFO] scraper: No results for query 'Java developer Affirm'
+2026-02-05 00:07:57 [INFO] scraper: Found 2 jobs for query 'Java developer CGI'
+2026-02-05 00:07:57 [INFO] scraper: Fetched 16 unique jobs total
+2026-02-05 00:07:57 [INFO] matcher: MATCH: 'Fullstack Developer - Java, Springboot, Angular' at 'TD Securities' — 89.2%
+2026-02-05 00:07:57 [INFO] matcher: MATCH: 'Lead Full Stack Developer' at 'RBC' — 86.7%
+2026-02-05 00:07:57 [INFO] matcher: MATCH: 'Senior Full Stack Engineer' at 'OPENLANE' — 78.6%
+2026-02-05 00:07:57 [INFO] matcher: MATCH: 'Tech Lead Full Stack Developer- Java, Angular' at 'RBC' — 86.7%
+2026-02-05 00:07:57 [INFO] matcher: MATCH: 'Senior Full Stack Java Developer' at 'Citi' — 81.7%
+2026-02-05 00:07:57 [INFO] matcher: MATCH: 'Lead Full Stack Java Developer' at 'Citi' — 81.7%
+2026-02-05 00:07:57 [INFO] matcher: MATCH: 'Senior Full Stack Developer' at 'RBC' — 86.7%
+2026-02-05 00:07:57 [INFO] matcher: MATCH: 'Lead Java Developer' at 'CGI' — 88.3%
+2026-02-05 00:07:57 [INFO] matcher: MATCH: 'Full Stack Developer (Angular and AWS)' at 'CGI' — 86.7%
+2026-02-05 00:07:57 [INFO] matcher: 9 jobs matched out of 16 (threshold: 70%)
+2026-02-05 00:07:57 [INFO] job-agent: All matched jobs were already notified previously
+2026-02-05 00:12:57 [INFO] job-agent: ============================================================
+2026-02-05 00:12:57 [INFO] job-agent: Starting job fetch cycle
+2026-02-05 00:12:57 [INFO] scraper: Built 21 combined search queries
+2026-02-05 00:12:58 [INFO] scraper: No results for query 'Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 00:12:58 [INFO] scraper: No results for query 'backend engineer Java Spring Boot REST API GraphQL'
+2026-02-05 00:12:59 [INFO] scraper: No results for query 'Lead Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 00:12:59 [INFO] scraper: No results for query 'Senior Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 00:12:59 [INFO] scraper: No results for query 'full stack developer Java Spring Boot REST API GraphQL'
+2026-02-05 00:13:00 [INFO] scraper: No results for query 'Senior software engineer Java Spring Boot REST API GraphQL'
+2026-02-05 00:13:06 [INFO] scraper: Found 2 jobs for query 'Java developer Google'
+2026-02-05 00:13:16 [INFO] scraper: Found 3 jobs for query 'Java developer Microsoft'
+2026-02-05 00:13:26 [INFO] scraper: Found 4 jobs for query 'Java developer Amazon'
+2026-02-05 00:13:32 [INFO] scraper: Found 1 jobs for query 'Java developer CIBC'
+2026-02-05 00:13:33 [INFO] scraper: No results for query 'Java developer Clio'
+2026-02-05 00:13:39 [INFO] scraper: Found 2 jobs for query 'Java developer Citi'
+2026-02-05 00:13:46 [INFO] scraper: Found 1 jobs for query 'Java developer TD'
+2026-02-05 00:13:46 [INFO] scraper: No results for query 'Java developer Manulife'
+2026-02-05 00:13:54 [INFO] scraper: Found 1 jobs for query 'Java developer TD'
+2026-02-05 00:14:01 [INFO] scraper: Found 4 jobs for query 'Java developer RBC'
+2026-02-05 00:14:01 [INFO] scraper: No results for query 'Java developer Deloitte'
+2026-02-05 00:14:02 [INFO] scraper: No results for query 'Java developer Pwc'
+2026-02-05 00:14:02 [INFO] scraper: No results for query 'Java developer Cisco'
+2026-02-05 00:14:02 [INFO] scraper: No results for query 'Java developer Affirm'
+2026-02-05 00:14:11 [INFO] scraper: Found 2 jobs for query 'Java developer CGI'
+2026-02-05 00:14:11 [INFO] scraper: Fetched 16 unique jobs total
+2026-02-05 00:14:11 [INFO] matcher: MATCH: 'Fullstack Developer - Java, Springboot, Angular' at 'TD Securities' — 89.2%
+2026-02-05 00:14:11 [INFO] matcher: MATCH: 'Lead Full Stack Developer' at 'RBC' — 86.7%
+2026-02-05 00:14:11 [INFO] matcher: MATCH: 'Senior Full Stack Engineer' at 'OPENLANE' — 78.6%
+2026-02-05 00:14:11 [INFO] matcher: MATCH: 'Tech Lead Full Stack Developer- Java, Angular' at 'RBC' — 86.7%
+2026-02-05 00:14:11 [INFO] matcher: MATCH: 'Senior Full Stack Java Developer' at 'Citi' — 81.7%
+2026-02-05 00:14:11 [INFO] matcher: MATCH: 'Lead Full Stack Java Developer' at 'Citi' — 81.7%
+2026-02-05 00:14:11 [INFO] matcher: MATCH: 'Senior Full Stack Developer' at 'RBC' — 86.7%
+2026-02-05 00:14:11 [INFO] matcher: MATCH: 'Lead Java Developer' at 'CGI' — 88.3%
+2026-02-05 00:14:11 [INFO] matcher: MATCH: 'Full Stack Developer (Angular and AWS)' at 'CGI' — 86.7%
+2026-02-05 00:14:11 [INFO] matcher: 9 jobs matched out of 16 (threshold: 70%)
+2026-02-05 00:14:11 [INFO] job-agent: All matched jobs were already notified previously
+2026-02-05 00:19:11 [INFO] job-agent: ============================================================
+2026-02-05 00:19:11 [INFO] job-agent: Starting job fetch cycle
+2026-02-05 00:19:11 [INFO] scraper: Built 21 combined search queries
+2026-02-05 00:19:11 [INFO] scraper: No results for query 'Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 00:19:12 [INFO] scraper: No results for query 'backend engineer Java Spring Boot REST API GraphQL'
+2026-02-05 00:19:12 [INFO] scraper: No results for query 'Lead Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 00:19:12 [INFO] scraper: No results for query 'Senior Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 00:19:13 [INFO] scraper: No results for query 'full stack developer Java Spring Boot REST API GraphQL'
+2026-02-05 00:19:13 [INFO] scraper: No results for query 'Senior software engineer Java Spring Boot REST API GraphQL'
+2026-02-05 00:19:22 [INFO] scraper: Found 2 jobs for query 'Java developer Google'
+2026-02-05 00:19:28 [INFO] scraper: Found 3 jobs for query 'Java developer Microsoft'
+2026-02-05 00:19:38 [INFO] scraper: Found 4 jobs for query 'Java developer Amazon'
+2026-02-05 00:19:43 [INFO] scraper: Found 1 jobs for query 'Java developer CIBC'
+2026-02-05 00:19:44 [INFO] scraper: No results for query 'Java developer Clio'
+2026-02-05 00:19:52 [INFO] scraper: Found 2 jobs for query 'Java developer Citi'
+2026-02-05 00:19:57 [INFO] scraper: Found 1 jobs for query 'Java developer TD'
+2026-02-05 00:19:57 [INFO] scraper: No results for query 'Java developer Manulife'
+2026-02-05 00:20:03 [INFO] scraper: Found 1 jobs for query 'Java developer TD'
+2026-02-05 00:20:12 [INFO] scraper: Found 4 jobs for query 'Java developer RBC'
+2026-02-05 00:20:13 [INFO] scraper: No results for query 'Java developer Deloitte'
+2026-02-05 00:20:13 [INFO] scraper: No results for query 'Java developer Pwc'
+2026-02-05 00:20:13 [INFO] scraper: No results for query 'Java developer Cisco'
+2026-02-05 00:20:14 [INFO] scraper: No results for query 'Java developer Affirm'
+2026-02-05 00:20:20 [INFO] scraper: Found 2 jobs for query 'Java developer CGI'
+2026-02-05 00:20:20 [INFO] scraper: Fetched 16 unique jobs total
+2026-02-05 00:20:20 [INFO] matcher: MATCH: 'Lead Full Stack Developer' at 'RBC' — 86.7%
+2026-02-05 00:20:20 [INFO] matcher: MATCH: 'Fullstack Developer - Java, Springboot, Angular' at 'TD Securities' — 89.2%
+2026-02-05 00:20:20 [INFO] matcher: MATCH: 'Senior Full Stack Engineer' at 'OPENLANE' — 78.6%
+2026-02-05 00:20:20 [INFO] matcher: MATCH: 'Tech Lead Full Stack Developer- Java, Angular' at 'RBC' — 86.7%
+2026-02-05 00:20:20 [INFO] matcher: MATCH: 'Senior Full Stack Java Developer' at 'Citi' — 81.7%
+2026-02-05 00:20:20 [INFO] matcher: MATCH: 'Lead Full Stack Java Developer' at 'Citi' — 81.7%
+2026-02-05 00:20:20 [INFO] matcher: MATCH: 'Senior Full Stack Developer' at 'RBC' — 86.7%
+2026-02-05 00:20:20 [INFO] matcher: MATCH: 'Lead Java Developer' at 'CGI' — 88.3%
+2026-02-05 00:20:20 [INFO] matcher: MATCH: 'Full Stack Developer (Angular and AWS)' at 'CGI' — 86.7%
+2026-02-05 00:20:20 [INFO] matcher: 9 jobs matched out of 16 (threshold: 70%)
+2026-02-05 00:20:20 [INFO] job-agent: All matched jobs were already notified previously
+2026-02-05 00:25:20 [INFO] job-agent: ============================================================
+2026-02-05 00:25:20 [INFO] job-agent: Starting job fetch cycle
+2026-02-05 00:25:20 [INFO] scraper: Built 21 combined search queries
+2026-02-05 00:25:21 [INFO] scraper: No results for query 'Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 00:25:21 [INFO] scraper: No results for query 'backend engineer Java Spring Boot REST API GraphQL'
+2026-02-05 00:25:21 [INFO] scraper: No results for query 'Lead Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 00:25:21 [INFO] scraper: No results for query 'Senior Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 00:25:22 [INFO] scraper: No results for query 'full stack developer Java Spring Boot REST API GraphQL'
+2026-02-05 00:25:22 [INFO] scraper: No results for query 'Senior software engineer Java Spring Boot REST API GraphQL'
+2026-02-05 00:25:31 [INFO] scraper: Found 2 jobs for query 'Java developer Google'
+2026-02-05 00:25:37 [INFO] scraper: Found 3 jobs for query 'Java developer Microsoft'
+2026-02-05 00:25:45 [INFO] scraper: Found 4 jobs for query 'Java developer Amazon'
+2026-02-05 00:25:50 [INFO] scraper: Found 1 jobs for query 'Java developer CIBC'
+2026-02-05 00:25:51 [INFO] scraper: No results for query 'Java developer Clio'
+2026-02-05 00:26:00 [INFO] scraper: Found 2 jobs for query 'Java developer Citi'
+2026-02-05 00:26:07 [INFO] scraper: Found 1 jobs for query 'Java developer TD'
+2026-02-05 00:26:08 [INFO] scraper: No results for query 'Java developer Manulife'
+2026-02-05 00:26:15 [INFO] scraper: Found 1 jobs for query 'Java developer TD'
+2026-02-05 00:26:23 [INFO] scraper: Found 4 jobs for query 'Java developer RBC'
+2026-02-05 00:26:23 [INFO] scraper: No results for query 'Java developer Deloitte'
+2026-02-05 00:26:23 [INFO] scraper: No results for query 'Java developer Pwc'
+2026-02-05 00:26:24 [INFO] scraper: No results for query 'Java developer Cisco'
+2026-02-05 00:26:24 [INFO] scraper: No results for query 'Java developer Affirm'
+2026-02-05 00:26:30 [INFO] scraper: Found 2 jobs for query 'Java developer CGI'
+2026-02-05 00:26:30 [INFO] scraper: Fetched 16 unique jobs total
+2026-02-05 00:26:30 [INFO] matcher: MATCH: 'Fullstack Developer - Java, Springboot, Angular' at 'TD Securities' — 89.2%
+2026-02-05 00:26:30 [INFO] matcher: MATCH: 'Lead Full Stack Developer' at 'RBC' — 86.7%
+2026-02-05 00:26:30 [INFO] matcher: MATCH: 'Senior Full Stack Engineer' at 'OPENLANE' — 78.6%
+2026-02-05 00:26:30 [INFO] matcher: MATCH: 'Tech Lead Full Stack Developer- Java, Angular' at 'RBC' — 86.7%
+2026-02-05 00:26:30 [INFO] matcher: MATCH: 'Senior Full Stack Java Developer' at 'Citi' — 81.7%
+2026-02-05 00:26:30 [INFO] matcher: MATCH: 'Lead Full Stack Java Developer' at 'Citi' — 81.7%
+2026-02-05 00:26:30 [INFO] matcher: MATCH: 'Senior Full Stack Developer' at 'RBC' — 86.7%
+2026-02-05 00:26:30 [INFO] matcher: MATCH: 'Lead Java Developer' at 'CGI' — 88.3%
+2026-02-05 00:26:30 [INFO] matcher: MATCH: 'Full Stack Developer (Angular and AWS)' at 'CGI' — 86.7%
+2026-02-05 00:26:30 [INFO] matcher: 9 jobs matched out of 16 (threshold: 70%)
+2026-02-05 00:26:30 [INFO] job-agent: All matched jobs were already notified previously
+2026-02-05 00:31:30 [INFO] job-agent: ============================================================
+2026-02-05 00:31:30 [INFO] job-agent: Starting job fetch cycle
+2026-02-05 00:31:30 [INFO] scraper: Built 21 combined search queries
+2026-02-05 00:31:31 [INFO] scraper: No results for query 'Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 00:31:31 [INFO] scraper: No results for query 'backend engineer Java Spring Boot REST API GraphQL'
+2026-02-05 00:31:31 [INFO] scraper: No results for query 'Lead Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 00:31:32 [INFO] scraper: No results for query 'Senior Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 00:31:32 [INFO] scraper: No results for query 'full stack developer Java Spring Boot REST API GraphQL'
+2026-02-05 00:31:33 [INFO] scraper: No results for query 'Senior software engineer Java Spring Boot REST API GraphQL'
+2026-02-05 00:31:40 [INFO] scraper: Found 2 jobs for query 'Java developer Google'
+2026-02-05 00:31:49 [INFO] scraper: Found 3 jobs for query 'Java developer Microsoft'
+2026-02-05 00:31:57 [INFO] scraper: Found 4 jobs for query 'Java developer Amazon'
+2026-02-05 00:32:05 [INFO] scraper: Found 1 jobs for query 'Java developer CIBC'
+2026-02-05 00:32:06 [INFO] scraper: No results for query 'Java developer Clio'
+2026-02-05 00:32:12 [INFO] scraper: Found 2 jobs for query 'Java developer Citi'
+2026-02-05 00:32:18 [INFO] scraper: Found 1 jobs for query 'Java developer TD'
+2026-02-05 00:32:18 [INFO] scraper: No results for query 'Java developer Manulife'
+2026-02-05 00:32:24 [INFO] scraper: Found 1 jobs for query 'Java developer TD'
+2026-02-05 00:32:33 [INFO] scraper: Found 4 jobs for query 'Java developer RBC'
+2026-02-05 00:32:33 [INFO] scraper: No results for query 'Java developer Deloitte'
+2026-02-05 00:32:34 [INFO] scraper: No results for query 'Java developer Pwc'
+2026-02-05 00:32:34 [INFO] scraper: No results for query 'Java developer Cisco'
+2026-02-05 00:32:34 [INFO] scraper: No results for query 'Java developer Affirm'
+2026-02-05 00:32:43 [INFO] scraper: Found 2 jobs for query 'Java developer CGI'
+2026-02-05 00:32:43 [INFO] scraper: Fetched 16 unique jobs total
+2026-02-05 00:32:43 [INFO] matcher: MATCH: 'Fullstack Developer - Java, Springboot, Angular' at 'TD Securities' — 89.2%
+2026-02-05 00:32:43 [INFO] matcher: MATCH: 'Lead Full Stack Developer' at 'RBC' — 86.7%
+2026-02-05 00:32:43 [INFO] matcher: MATCH: 'Senior Full Stack Engineer' at 'OPENLANE' — 78.6%
+2026-02-05 00:32:43 [INFO] matcher: MATCH: 'Tech Lead Full Stack Developer- Java, Angular' at 'RBC' — 86.7%
+2026-02-05 00:32:43 [INFO] matcher: MATCH: 'Senior Full Stack Java Developer' at 'Citi' — 81.7%
+2026-02-05 00:32:43 [INFO] matcher: MATCH: 'Lead Full Stack Java Developer' at 'Citi' — 81.7%
+2026-02-05 00:32:43 [INFO] matcher: MATCH: 'Senior Full Stack Developer' at 'RBC' — 86.7%
+2026-02-05 00:32:43 [INFO] matcher: MATCH: 'Lead Java Developer' at 'CGI' — 88.3%
+2026-02-05 00:32:43 [INFO] matcher: MATCH: 'Full Stack Developer (Angular and AWS)' at 'CGI' — 86.7%
+2026-02-05 00:32:43 [INFO] matcher: 9 jobs matched out of 16 (threshold: 70%)
+2026-02-05 00:32:43 [INFO] job-agent: All matched jobs were already notified previously
+2026-02-05 00:37:43 [INFO] job-agent: ============================================================
+2026-02-05 00:37:43 [INFO] job-agent: Starting job fetch cycle
+2026-02-05 00:37:43 [INFO] scraper: Built 21 combined search queries
+2026-02-05 00:37:43 [INFO] scraper: No results for query 'Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 00:37:44 [INFO] scraper: No results for query 'backend engineer Java Spring Boot REST API GraphQL'
+2026-02-05 00:37:44 [INFO] scraper: No results for query 'Lead Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 00:37:44 [INFO] scraper: No results for query 'Senior Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 00:37:45 [INFO] scraper: No results for query 'full stack developer Java Spring Boot REST API GraphQL'
+2026-02-05 00:37:45 [INFO] scraper: No results for query 'Senior software engineer Java Spring Boot REST API GraphQL'
+2026-02-05 00:37:53 [INFO] scraper: Found 2 jobs for query 'Java developer Google'
+2026-02-05 00:38:02 [INFO] scraper: Found 3 jobs for query 'Java developer Microsoft'
+2026-02-05 00:38:09 [INFO] scraper: Found 4 jobs for query 'Java developer Amazon'
+2026-02-05 00:38:14 [INFO] scraper: Found 1 jobs for query 'Java developer CIBC'
+2026-02-05 00:38:15 [INFO] scraper: No results for query 'Java developer Clio'
+2026-02-05 00:38:21 [INFO] scraper: Found 2 jobs for query 'Java developer Citi'
+2026-02-05 00:38:28 [INFO] scraper: Found 1 jobs for query 'Java developer TD'
+2026-02-05 00:38:28 [INFO] scraper: No results for query 'Java developer Manulife'
+2026-02-05 00:38:36 [INFO] scraper: Found 1 jobs for query 'Java developer TD'
+2026-02-05 00:38:44 [INFO] scraper: Found 4 jobs for query 'Java developer RBC'
+2026-02-05 00:38:44 [INFO] scraper: No results for query 'Java developer Deloitte'
+2026-02-05 00:38:45 [INFO] scraper: No results for query 'Java developer Pwc'
+2026-02-05 00:38:45 [INFO] scraper: No results for query 'Java developer Cisco'
+2026-02-05 00:38:45 [INFO] scraper: No results for query 'Java developer Affirm'
+2026-02-05 00:38:53 [INFO] scraper: Found 2 jobs for query 'Java developer CGI'
+2026-02-05 00:38:53 [INFO] scraper: Fetched 16 unique jobs total
+2026-02-05 00:38:53 [INFO] matcher: MATCH: 'Fullstack Developer - Java, Springboot, Angular' at 'TD Securities' — 89.2%
+2026-02-05 00:38:53 [INFO] matcher: MATCH: 'Lead Full Stack Developer' at 'RBC' — 86.7%
+2026-02-05 00:38:53 [INFO] matcher: MATCH: 'Senior Full Stack Engineer' at 'OPENLANE' — 78.6%
+2026-02-05 00:38:53 [INFO] matcher: MATCH: 'Tech Lead Full Stack Developer- Java, Angular' at 'RBC' — 86.7%
+2026-02-05 00:38:53 [INFO] matcher: MATCH: 'Senior Full Stack Java Developer' at 'Citi' — 81.7%
+2026-02-05 00:38:53 [INFO] matcher: MATCH: 'Lead Full Stack Java Developer' at 'Citi' — 81.7%
+2026-02-05 00:38:53 [INFO] matcher: MATCH: 'Senior Full Stack Developer' at 'RBC' — 86.7%
+2026-02-05 00:38:53 [INFO] matcher: MATCH: 'Lead Java Developer' at 'CGI' — 88.3%
+2026-02-05 00:38:53 [INFO] matcher: MATCH: 'Full Stack Developer (Angular and AWS)' at 'CGI' — 86.7%
+2026-02-05 00:38:53 [INFO] matcher: 9 jobs matched out of 16 (threshold: 70%)
+2026-02-05 00:38:53 [INFO] job-agent: All matched jobs were already notified previously
+2026-02-05 00:43:53 [INFO] job-agent: ============================================================
+2026-02-05 00:43:53 [INFO] job-agent: Starting job fetch cycle
+2026-02-05 00:43:53 [INFO] scraper: Built 21 combined search queries
+2026-02-05 00:43:54 [INFO] scraper: No results for query 'Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 00:43:54 [INFO] scraper: No results for query 'backend engineer Java Spring Boot REST API GraphQL'
+2026-02-05 00:43:54 [INFO] scraper: No results for query 'Lead Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 00:43:55 [INFO] scraper: No results for query 'Senior Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 00:43:55 [INFO] scraper: No results for query 'full stack developer Java Spring Boot REST API GraphQL'
+2026-02-05 00:43:55 [INFO] scraper: No results for query 'Senior software engineer Java Spring Boot REST API GraphQL'
+2026-02-05 00:44:04 [INFO] scraper: Found 2 jobs for query 'Java developer Google'
+2026-02-05 00:44:13 [INFO] scraper: Found 3 jobs for query 'Java developer Microsoft'
+2026-02-05 00:44:22 [INFO] scraper: Found 4 jobs for query 'Java developer Amazon'
+2026-02-05 00:44:26 [INFO] scraper: Found 1 jobs for query 'Java developer CIBC'
+2026-02-05 00:44:27 [INFO] scraper: No results for query 'Java developer Clio'
+2026-02-05 00:44:36 [INFO] scraper: Found 2 jobs for query 'Java developer Citi'
+2026-02-05 00:44:42 [INFO] scraper: Found 1 jobs for query 'Java developer TD'
+2026-02-05 00:44:43 [INFO] scraper: No results for query 'Java developer Manulife'
+2026-02-05 00:44:48 [INFO] scraper: Found 1 jobs for query 'Java developer TD'
+2026-02-05 00:44:55 [INFO] scraper: Found 4 jobs for query 'Java developer RBC'
+2026-02-05 00:44:55 [INFO] scraper: No results for query 'Java developer Deloitte'
+2026-02-05 00:44:56 [INFO] scraper: No results for query 'Java developer Pwc'
+2026-02-05 00:44:56 [INFO] scraper: No results for query 'Java developer Cisco'
+2026-02-05 00:44:57 [INFO] scraper: No results for query 'Java developer Affirm'
+2026-02-05 00:45:02 [INFO] scraper: Found 2 jobs for query 'Java developer CGI'
+2026-02-05 00:45:02 [INFO] scraper: Fetched 16 unique jobs total
+2026-02-05 00:45:02 [INFO] matcher: MATCH: 'Fullstack Developer - Java, Springboot, Angular' at 'TD Securities' — 89.2%
+2026-02-05 00:45:02 [INFO] matcher: MATCH: 'Lead Full Stack Developer' at 'RBC' — 86.7%
+2026-02-05 00:45:02 [INFO] matcher: MATCH: 'Senior Full Stack Engineer' at 'OPENLANE' — 78.6%
+2026-02-05 00:45:02 [INFO] matcher: MATCH: 'Tech Lead Full Stack Developer- Java, Angular' at 'RBC' — 86.7%
+2026-02-05 00:45:02 [INFO] matcher: MATCH: 'Senior Full Stack Java Developer' at 'Citi' — 81.7%
+2026-02-05 00:45:02 [INFO] matcher: MATCH: 'Lead Full Stack Java Developer' at 'Citi' — 81.7%
+2026-02-05 00:45:02 [INFO] matcher: MATCH: 'Senior Full Stack Developer' at 'RBC' — 86.7%
+2026-02-05 00:45:02 [INFO] matcher: MATCH: 'Lead Java Developer' at 'CGI' — 88.3%
+2026-02-05 00:45:02 [INFO] matcher: MATCH: 'Full Stack Developer (Angular and AWS)' at 'CGI' — 86.7%
+2026-02-05 00:45:02 [INFO] matcher: 9 jobs matched out of 16 (threshold: 70%)
+2026-02-05 00:45:02 [INFO] job-agent: All matched jobs were already notified previously
+2026-02-05 00:50:02 [INFO] job-agent: ============================================================
+2026-02-05 00:50:02 [INFO] job-agent: Starting job fetch cycle
+2026-02-05 00:50:02 [INFO] scraper: Built 21 combined search queries
+2026-02-05 00:50:03 [INFO] scraper: No results for query 'Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 00:50:03 [INFO] scraper: No results for query 'backend engineer Java Spring Boot REST API GraphQL'
+2026-02-05 00:50:03 [INFO] scraper: No results for query 'Lead Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 00:50:04 [INFO] scraper: No results for query 'Senior Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 00:50:04 [INFO] scraper: No results for query 'full stack developer Java Spring Boot REST API GraphQL'
+2026-02-05 00:50:05 [INFO] scraper: No results for query 'Senior software engineer Java Spring Boot REST API GraphQL'
+2026-02-05 00:50:11 [INFO] scraper: Found 3 jobs for query 'Java developer Google'
+2026-02-05 00:50:20 [INFO] scraper: Found 3 jobs for query 'Java developer Microsoft'
+2026-02-05 00:50:29 [INFO] scraper: Found 4 jobs for query 'Java developer Amazon'
+2026-02-05 00:50:36 [INFO] scraper: Found 1 jobs for query 'Java developer CIBC'
+2026-02-05 00:50:37 [INFO] scraper: No results for query 'Java developer Clio'
+2026-02-05 00:50:44 [INFO] scraper: Found 2 jobs for query 'Java developer Citi'
+2026-02-05 00:50:51 [INFO] scraper: Found 1 jobs for query 'Java developer TD'
+2026-02-05 00:50:51 [INFO] scraper: No results for query 'Java developer Manulife'
+2026-02-05 00:50:59 [INFO] scraper: Found 1 jobs for query 'Java developer TD'
+2026-02-05 00:51:06 [INFO] scraper: Found 4 jobs for query 'Java developer RBC'
+2026-02-05 00:51:06 [INFO] scraper: No results for query 'Java developer Deloitte'
+2026-02-05 00:51:07 [INFO] scraper: No results for query 'Java developer Pwc'
+2026-02-05 00:51:07 [INFO] scraper: No results for query 'Java developer Cisco'
+2026-02-05 00:51:07 [INFO] scraper: No results for query 'Java developer Affirm'
+2026-02-05 00:51:16 [INFO] scraper: Found 2 jobs for query 'Java developer CGI'
+2026-02-05 00:51:16 [INFO] scraper: Fetched 17 unique jobs total
+2026-02-05 00:51:16 [INFO] matcher: MATCH: 'Senior Java Developer' at 'Infoya' — 88.3%
+2026-02-05 00:51:16 [INFO] matcher: MATCH: 'Fullstack Developer - Java, Springboot, Angular' at 'TD Securities' — 89.2%
+2026-02-05 00:51:17 [INFO] matcher: MATCH: 'Lead Full Stack Developer' at 'RBC' — 86.7%
+2026-02-05 00:51:17 [INFO] matcher: MATCH: 'Senior Full Stack Engineer' at 'OPENLANE' — 78.6%
+2026-02-05 00:51:17 [INFO] matcher: MATCH: 'Tech Lead Full Stack Developer- Java, Angular' at 'RBC' — 86.7%
+2026-02-05 00:51:17 [INFO] matcher: MATCH: 'Senior Full Stack Java Developer' at 'Citi' — 81.7%
+2026-02-05 00:51:17 [INFO] matcher: MATCH: 'Lead Full Stack Java Developer' at 'Citi' — 81.7%
+2026-02-05 00:51:17 [INFO] matcher: MATCH: 'Senior Full Stack Developer' at 'RBC' — 86.7%
+2026-02-05 00:51:17 [INFO] matcher: MATCH: 'Lead Java Developer' at 'CGI' — 88.3%
+2026-02-05 00:51:17 [INFO] matcher: MATCH: 'Full Stack Developer (Angular and AWS)' at 'CGI' — 86.7%
+2026-02-05 00:51:17 [INFO] matcher: 10 jobs matched out of 17 (threshold: 70%)
+2026-02-05 00:51:17 [INFO] job-agent: 1 new matching job(s) to notify about
+2026-02-05 00:51:17 [ERROR] notifier: Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d75a77b69052e-5061c166337sm29664571cf.10 - gsmtp')
+2026-02-05 00:51:38 [INFO] notifier: WhatsApp message sent via pywhatkit
+2026-02-05 00:51:38 [INFO] storage: Stored job: Senior Java Developer at Infoya (score: 88.3%)
+2026-02-05 00:51:38 [INFO] job-agent: Cycle complete
+2026-02-05 00:56:38 [INFO] job-agent: ============================================================
+2026-02-05 00:56:38 [INFO] job-agent: Starting job fetch cycle
+2026-02-05 00:56:38 [INFO] scraper: Built 21 combined search queries
+2026-02-05 00:56:39 [INFO] scraper: No results for query 'Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 00:56:39 [INFO] scraper: No results for query 'backend engineer Java Spring Boot REST API GraphQL'
+2026-02-05 00:56:39 [INFO] scraper: No results for query 'Lead Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 00:56:40 [INFO] scraper: No results for query 'Senior Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 00:56:40 [INFO] scraper: No results for query 'full stack developer Java Spring Boot REST API GraphQL'
+2026-02-05 00:56:40 [INFO] scraper: No results for query 'Senior software engineer Java Spring Boot REST API GraphQL'
+2026-02-05 00:56:50 [INFO] scraper: Found 3 jobs for query 'Java developer Google'
+2026-02-05 00:56:58 [INFO] scraper: Found 3 jobs for query 'Java developer Microsoft'
+2026-02-05 00:57:06 [INFO] scraper: Found 4 jobs for query 'Java developer Amazon'
+2026-02-05 00:57:13 [INFO] scraper: Found 1 jobs for query 'Java developer CIBC'
+2026-02-05 00:57:13 [INFO] scraper: No results for query 'Java developer Clio'
+2026-02-05 00:57:21 [INFO] scraper: Found 2 jobs for query 'Java developer Citi'
+2026-02-05 00:57:28 [INFO] scraper: Found 1 jobs for query 'Java developer TD'
+2026-02-05 00:57:28 [INFO] scraper: No results for query 'Java developer Manulife'
+2026-02-05 00:57:36 [INFO] scraper: Found 1 jobs for query 'Java developer TD'
+2026-02-05 00:57:43 [INFO] scraper: Found 4 jobs for query 'Java developer RBC'
+2026-02-05 00:57:43 [INFO] scraper: No results for query 'Java developer Deloitte'
+2026-02-05 00:57:44 [INFO] scraper: No results for query 'Java developer Pwc'
+2026-02-05 00:57:44 [INFO] scraper: No results for query 'Java developer Cisco'
+2026-02-05 00:57:44 [INFO] scraper: No results for query 'Java developer Affirm'
+2026-02-05 00:57:50 [INFO] scraper: Found 2 jobs for query 'Java developer CGI'
+2026-02-05 00:57:50 [INFO] scraper: Fetched 17 unique jobs total
+2026-02-05 00:57:50 [INFO] matcher: MATCH: 'Senior Java Developer' at 'Infoya' — 88.3%
+2026-02-05 00:57:50 [INFO] matcher: MATCH: 'Fullstack Developer - Java, Springboot, Angular' at 'TD Securities' — 89.2%
+2026-02-05 00:57:50 [INFO] matcher: MATCH: 'Lead Full Stack Developer' at 'RBC' — 86.7%
+2026-02-05 00:57:50 [INFO] matcher: MATCH: 'Senior Full Stack Engineer' at 'OPENLANE' — 78.6%
+2026-02-05 00:57:50 [INFO] matcher: MATCH: 'Tech Lead Full Stack Developer- Java, Angular' at 'RBC' — 86.7%
+2026-02-05 00:57:50 [INFO] matcher: MATCH: 'Senior Full Stack Java Developer' at 'Citi' — 81.7%
+2026-02-05 00:57:50 [INFO] matcher: MATCH: 'Lead Full Stack Java Developer' at 'Citi' — 81.7%
+2026-02-05 00:57:50 [INFO] matcher: MATCH: 'Senior Full Stack Developer' at 'RBC' — 86.7%
+2026-02-05 00:57:50 [INFO] matcher: MATCH: 'Lead Java Developer' at 'CGI' — 88.3%
+2026-02-05 00:57:50 [INFO] matcher: MATCH: 'Full Stack Developer (Angular and AWS)' at 'CGI' — 86.7%
+2026-02-05 00:57:50 [INFO] matcher: 10 jobs matched out of 17 (threshold: 70%)
+2026-02-05 00:57:50 [INFO] job-agent: All matched jobs were already notified previously
+2026-02-05 01:02:51 [INFO] job-agent: ============================================================
+2026-02-05 01:02:51 [INFO] job-agent: Starting job fetch cycle
+2026-02-05 01:02:51 [INFO] scraper: Built 21 combined search queries
+2026-02-05 01:02:51 [INFO] scraper: No results for query 'Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 01:02:51 [INFO] scraper: No results for query 'backend engineer Java Spring Boot REST API GraphQL'
+2026-02-05 01:02:52 [INFO] scraper: No results for query 'Lead Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 01:02:52 [INFO] scraper: No results for query 'Senior Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 01:02:53 [INFO] scraper: No results for query 'full stack developer Java Spring Boot REST API GraphQL'
+2026-02-05 01:02:53 [INFO] scraper: No results for query 'Senior software engineer Java Spring Boot REST API GraphQL'
+2026-02-05 01:03:00 [INFO] scraper: Found 3 jobs for query 'Java developer Google'
+2026-02-05 01:03:10 [INFO] scraper: Found 3 jobs for query 'Java developer Microsoft'
+2026-02-05 01:03:17 [INFO] scraper: Found 4 jobs for query 'Java developer Amazon'
+2026-02-05 01:03:25 [INFO] scraper: Found 1 jobs for query 'Java developer CIBC'
+2026-02-05 01:03:25 [INFO] scraper: No results for query 'Java developer Clio'
+2026-02-05 01:03:30 [INFO] scraper: Found 2 jobs for query 'Java developer Citi'
+2026-02-05 01:03:35 [INFO] scraper: Found 1 jobs for query 'Java developer TD'
+2026-02-05 01:03:35 [INFO] scraper: No results for query 'Java developer Manulife'
+2026-02-05 01:03:43 [INFO] scraper: Found 1 jobs for query 'Java developer TD'
+2026-02-05 01:03:50 [INFO] scraper: Found 4 jobs for query 'Java developer RBC'
+2026-02-05 01:03:50 [INFO] scraper: No results for query 'Java developer Deloitte'
+2026-02-05 01:03:50 [INFO] scraper: No results for query 'Java developer Pwc'
+2026-02-05 01:03:51 [INFO] scraper: No results for query 'Java developer Cisco'
+2026-02-05 01:03:51 [INFO] scraper: No results for query 'Java developer Affirm'
+2026-02-05 01:04:00 [INFO] scraper: Found 2 jobs for query 'Java developer CGI'
+2026-02-05 01:04:00 [INFO] scraper: Fetched 17 unique jobs total
+2026-02-05 01:04:00 [INFO] matcher: MATCH: 'Senior Java Developer' at 'Infoya' — 88.3%
+2026-02-05 01:04:00 [INFO] matcher: MATCH: 'Fullstack Developer - Java, Springboot, Angular' at 'TD Securities' — 89.2%
+2026-02-05 01:04:00 [INFO] matcher: MATCH: 'Lead Full Stack Developer' at 'RBC' — 86.7%
+2026-02-05 01:04:00 [INFO] matcher: MATCH: 'Senior Full Stack Engineer' at 'OPENLANE' — 78.6%
+2026-02-05 01:04:00 [INFO] matcher: MATCH: 'Tech Lead Full Stack Developer- Java, Angular' at 'RBC' — 86.7%
+2026-02-05 01:04:00 [INFO] matcher: MATCH: 'Senior Full Stack Java Developer' at 'Citi' — 81.7%
+2026-02-05 01:04:00 [INFO] matcher: MATCH: 'Lead Full Stack Java Developer' at 'Citi' — 81.7%
+2026-02-05 01:04:00 [INFO] matcher: MATCH: 'Senior Full Stack Developer' at 'RBC' — 86.7%
+2026-02-05 01:04:00 [INFO] matcher: MATCH: 'Lead Java Developer' at 'CGI' — 88.3%
+2026-02-05 01:04:00 [INFO] matcher: MATCH: 'Full Stack Developer (Angular and AWS)' at 'CGI' — 86.7%
+2026-02-05 01:04:00 [INFO] matcher: 10 jobs matched out of 17 (threshold: 70%)
+2026-02-05 01:04:00 [INFO] job-agent: All matched jobs were already notified previously
+2026-02-05 01:09:00 [INFO] job-agent: ============================================================
+2026-02-05 01:09:00 [INFO] job-agent: Starting job fetch cycle
+2026-02-05 01:09:00 [INFO] scraper: Built 21 combined search queries
+2026-02-05 01:09:01 [INFO] scraper: No results for query 'Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 01:09:01 [INFO] scraper: No results for query 'backend engineer Java Spring Boot REST API GraphQL'
+2026-02-05 01:09:01 [INFO] scraper: No results for query 'Lead Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 01:09:02 [INFO] scraper: No results for query 'Senior Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 01:09:02 [INFO] scraper: No results for query 'full stack developer Java Spring Boot REST API GraphQL'
+2026-02-05 01:09:03 [INFO] scraper: No results for query 'Senior software engineer Java Spring Boot REST API GraphQL'
+2026-02-05 01:09:10 [INFO] scraper: Found 3 jobs for query 'Java developer Google'
+2026-02-05 01:09:19 [INFO] scraper: Found 3 jobs for query 'Java developer Microsoft'
+2026-02-05 01:09:29 [INFO] scraper: Found 4 jobs for query 'Java developer Amazon'
+2026-02-05 01:09:36 [INFO] scraper: Found 1 jobs for query 'Java developer CIBC'
+2026-02-05 01:09:36 [INFO] scraper: No results for query 'Java developer Clio'
+2026-02-05 01:09:43 [INFO] scraper: Found 2 jobs for query 'Java developer Citi'
+2026-02-05 01:09:48 [INFO] scraper: Found 1 jobs for query 'Java developer TD'
+2026-02-05 01:09:49 [INFO] scraper: No results for query 'Java developer Manulife'
+2026-02-05 01:09:56 [INFO] scraper: Found 1 jobs for query 'Java developer TD'
+2026-02-05 01:10:05 [INFO] scraper: Found 4 jobs for query 'Java developer RBC'
+2026-02-05 01:10:05 [INFO] scraper: No results for query 'Java developer Deloitte'
+2026-02-05 01:10:05 [INFO] scraper: No results for query 'Java developer Pwc'
+2026-02-05 01:10:06 [INFO] scraper: No results for query 'Java developer Cisco'
+2026-02-05 01:10:06 [INFO] scraper: No results for query 'Java developer Affirm'
+2026-02-05 01:10:11 [INFO] scraper: Found 2 jobs for query 'Java developer CGI'
+2026-02-05 01:10:11 [INFO] scraper: Fetched 17 unique jobs total
+2026-02-05 01:10:11 [INFO] matcher: MATCH: 'Senior Java Developer' at 'Infoya' — 90.8%
+2026-02-05 01:10:11 [INFO] matcher: MATCH: 'Fullstack Developer - Java, Springboot, Angular' at 'TD Securities' — 89.2%
+2026-02-05 01:10:11 [INFO] matcher: MATCH: 'Lead Full Stack Developer' at 'RBC' — 86.7%
+2026-02-05 01:10:11 [INFO] matcher: MATCH: 'Senior Full Stack Engineer' at 'OPENLANE' — 78.6%
+2026-02-05 01:10:11 [INFO] matcher: MATCH: 'Tech Lead Full Stack Developer- Java, Angular' at 'RBC' — 86.7%
+2026-02-05 01:10:11 [INFO] matcher: MATCH: 'Lead Full Stack Java Developer' at 'Citi' — 81.7%
+2026-02-05 01:10:11 [INFO] matcher: MATCH: 'Senior Full Stack Java Developer' at 'Citi' — 81.7%
+2026-02-05 01:10:11 [INFO] matcher: MATCH: 'Senior Full Stack Developer' at 'RBC' — 86.7%
+2026-02-05 01:10:11 [INFO] matcher: MATCH: 'Lead Java Developer' at 'CGI' — 88.3%
+2026-02-05 01:10:11 [INFO] matcher: MATCH: 'Full Stack Developer (Angular and AWS)' at 'CGI' — 86.7%
+2026-02-05 01:10:11 [INFO] matcher: 10 jobs matched out of 17 (threshold: 70%)
+2026-02-05 01:10:11 [INFO] job-agent: All matched jobs were already notified previously
+2026-02-05 01:15:12 [INFO] job-agent: ============================================================
+2026-02-05 01:15:12 [INFO] job-agent: Starting job fetch cycle
+2026-02-05 01:15:12 [INFO] scraper: Built 21 combined search queries
+2026-02-05 01:15:12 [INFO] scraper: No results for query 'Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 01:15:12 [INFO] scraper: No results for query 'backend engineer Java Spring Boot REST API GraphQL'
+2026-02-05 01:15:13 [INFO] scraper: No results for query 'Lead Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 01:15:13 [INFO] scraper: No results for query 'Senior Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 01:15:13 [INFO] scraper: No results for query 'full stack developer Java Spring Boot REST API GraphQL'
+2026-02-05 01:15:14 [INFO] scraper: No results for query 'Senior software engineer Java Spring Boot REST API GraphQL'
+2026-02-05 01:15:21 [INFO] scraper: Found 3 jobs for query 'Java developer Google'
+2026-02-05 01:15:28 [INFO] scraper: Found 3 jobs for query 'Java developer Microsoft'
+2026-02-05 01:15:38 [INFO] scraper: Found 4 jobs for query 'Java developer Amazon'
+2026-02-05 01:15:45 [INFO] scraper: Found 1 jobs for query 'Java developer CIBC'
+2026-02-05 01:15:45 [INFO] scraper: No results for query 'Java developer Clio'
+2026-02-05 01:15:51 [INFO] scraper: Found 2 jobs for query 'Java developer Citi'
+2026-02-05 01:15:58 [INFO] scraper: Found 1 jobs for query 'Java developer TD'
+2026-02-05 01:15:59 [INFO] scraper: No results for query 'Java developer Manulife'
+2026-02-05 01:16:07 [INFO] scraper: Found 1 jobs for query 'Java developer TD'
+2026-02-05 01:16:16 [INFO] scraper: Found 4 jobs for query 'Java developer RBC'
+2026-02-05 01:16:17 [INFO] scraper: No results for query 'Java developer Deloitte'
+2026-02-05 01:16:17 [INFO] scraper: No results for query 'Java developer Pwc'
+2026-02-05 01:16:17 [INFO] scraper: No results for query 'Java developer Cisco'
+2026-02-05 01:16:18 [INFO] scraper: No results for query 'Java developer Affirm'
+2026-02-05 01:16:26 [INFO] scraper: Found 2 jobs for query 'Java developer CGI'
+2026-02-05 01:16:26 [INFO] scraper: Fetched 17 unique jobs total
+2026-02-05 01:16:26 [INFO] matcher: MATCH: 'Senior Java Developer' at 'Infoya' — 90.8%
+2026-02-05 01:16:26 [INFO] matcher: MATCH: 'Fullstack Developer - Java, Springboot, Angular' at 'TD Securities' — 89.2%
+2026-02-05 01:16:26 [INFO] matcher: MATCH: 'Lead Full Stack Developer' at 'RBC' — 86.7%
+2026-02-05 01:16:26 [INFO] matcher: MATCH: 'Senior Full Stack Engineer' at 'OPENLANE' — 78.6%
+2026-02-05 01:16:26 [INFO] matcher: MATCH: 'Tech Lead Full Stack Developer- Java, Angular' at 'RBC' — 86.7%
+2026-02-05 01:16:26 [INFO] matcher: MATCH: 'Senior Full Stack Java Developer' at 'Citi' — 81.7%
+2026-02-05 01:16:26 [INFO] matcher: MATCH: 'Lead Full Stack Java Developer' at 'Citi' — 81.7%
+2026-02-05 01:16:26 [INFO] matcher: MATCH: 'Senior Full Stack Developer' at 'RBC' — 86.7%
+2026-02-05 01:16:26 [INFO] matcher: MATCH: 'Lead Java Developer' at 'CGI' — 88.3%
+2026-02-05 01:16:26 [INFO] matcher: MATCH: 'Full Stack Developer (Angular and AWS)' at 'CGI' — 86.7%
+2026-02-05 01:16:26 [INFO] matcher: 10 jobs matched out of 17 (threshold: 70%)
+2026-02-05 01:16:26 [INFO] job-agent: All matched jobs were already notified previously
+2026-02-05 01:21:27 [INFO] job-agent: ============================================================
+2026-02-05 01:21:27 [INFO] job-agent: Starting job fetch cycle
+2026-02-05 01:21:27 [INFO] scraper: Built 21 combined search queries
+2026-02-05 01:21:27 [INFO] scraper: No results for query 'Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 01:21:27 [INFO] scraper: No results for query 'backend engineer Java Spring Boot REST API GraphQL'
+2026-02-05 01:21:28 [INFO] scraper: No results for query 'Lead Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 01:21:28 [INFO] scraper: No results for query 'Senior Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 01:21:28 [INFO] scraper: No results for query 'full stack developer Java Spring Boot REST API GraphQL'
+2026-02-05 01:21:29 [INFO] scraper: No results for query 'Senior software engineer Java Spring Boot REST API GraphQL'
+2026-02-05 01:21:38 [INFO] scraper: Found 3 jobs for query 'Java developer Google'
+2026-02-05 01:21:45 [INFO] scraper: Found 3 jobs for query 'Java developer Microsoft'
+2026-02-05 01:21:52 [INFO] scraper: Found 4 jobs for query 'Java developer Amazon'
+2026-02-05 01:22:00 [INFO] scraper: Found 1 jobs for query 'Java developer CIBC'
+2026-02-05 01:22:00 [INFO] scraper: No results for query 'Java developer Clio'
+2026-02-05 01:22:07 [INFO] scraper: Found 2 jobs for query 'Java developer Citi'
+2026-02-05 01:22:13 [INFO] scraper: Found 1 jobs for query 'Java developer TD'
+2026-02-05 01:22:14 [INFO] scraper: No results for query 'Java developer Manulife'
+2026-02-05 01:22:19 [INFO] scraper: Found 1 jobs for query 'Java developer TD'
+2026-02-05 01:22:26 [INFO] scraper: Found 4 jobs for query 'Java developer RBC'
+2026-02-05 01:22:26 [INFO] scraper: No results for query 'Java developer Deloitte'
+2026-02-05 01:22:27 [INFO] scraper: No results for query 'Java developer Pwc'
+2026-02-05 01:22:27 [INFO] scraper: No results for query 'Java developer Cisco'
+2026-02-05 01:22:27 [INFO] scraper: No results for query 'Java developer Affirm'
+2026-02-05 01:22:33 [INFO] scraper: Found 2 jobs for query 'Java developer CGI'
+2026-02-05 01:22:33 [INFO] scraper: Fetched 17 unique jobs total
+2026-02-05 01:22:33 [INFO] matcher: MATCH: 'Senior Java Developer' at 'Infoya' — 90.8%
+2026-02-05 01:22:33 [INFO] matcher: MATCH: 'Fullstack Developer - Java, Springboot, Angular' at 'TD Securities' — 89.2%
+2026-02-05 01:22:33 [INFO] matcher: MATCH: 'Lead Full Stack Developer' at 'RBC' — 86.7%
+2026-02-05 01:22:33 [INFO] matcher: MATCH: 'Senior Full Stack Engineer' at 'OPENLANE' — 78.6%
+2026-02-05 01:22:33 [INFO] matcher: MATCH: 'Tech Lead Full Stack Developer- Java, Angular' at 'RBC' — 86.7%
+2026-02-05 01:22:33 [INFO] matcher: MATCH: 'Senior Full Stack Java Developer' at 'Citi' — 81.7%
+2026-02-05 01:22:33 [INFO] matcher: MATCH: 'Lead Full Stack Java Developer' at 'Citi' — 81.7%
+2026-02-05 01:22:33 [INFO] matcher: MATCH: 'Senior Full Stack Developer' at 'RBC' — 86.7%
+2026-02-05 01:22:33 [INFO] matcher: MATCH: 'Lead Java Developer' at 'CGI' — 88.3%
+2026-02-05 01:22:33 [INFO] matcher: MATCH: 'Full Stack Developer (Angular and AWS)' at 'CGI' — 86.7%
+2026-02-05 01:22:33 [INFO] matcher: 10 jobs matched out of 17 (threshold: 70%)
+2026-02-05 01:22:33 [INFO] job-agent: All matched jobs were already notified previously
+2026-02-05 01:27:34 [INFO] job-agent: ============================================================
+2026-02-05 01:27:34 [INFO] job-agent: Starting job fetch cycle
+2026-02-05 01:27:34 [INFO] scraper: Built 21 combined search queries
+2026-02-05 01:27:34 [INFO] scraper: No results for query 'Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 01:27:34 [INFO] scraper: No results for query 'backend engineer Java Spring Boot REST API GraphQL'
+2026-02-05 01:27:35 [INFO] scraper: No results for query 'Lead Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 01:27:35 [INFO] scraper: No results for query 'Senior Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 01:27:36 [INFO] scraper: No results for query 'full stack developer Java Spring Boot REST API GraphQL'
+2026-02-05 01:27:36 [INFO] scraper: No results for query 'Senior software engineer Java Spring Boot REST API GraphQL'
+2026-02-05 01:27:43 [INFO] scraper: Found 3 jobs for query 'Java developer Google'
+2026-02-05 01:27:53 [INFO] scraper: Found 3 jobs for query 'Java developer Microsoft'
+2026-02-05 01:28:03 [INFO] scraper: Found 4 jobs for query 'Java developer Amazon'
+2026-02-05 01:28:08 [INFO] scraper: Found 1 jobs for query 'Java developer CIBC'
+2026-02-05 01:28:08 [INFO] scraper: No results for query 'Java developer Clio'
+2026-02-05 01:28:17 [INFO] scraper: Found 2 jobs for query 'Java developer Citi'
+2026-02-05 01:28:24 [INFO] scraper: Found 1 jobs for query 'Java developer TD'
+2026-02-05 01:28:24 [INFO] scraper: No results for query 'Java developer Manulife'
+2026-02-05 01:28:30 [INFO] scraper: Found 1 jobs for query 'Java developer TD'
+2026-02-05 01:28:40 [INFO] scraper: Found 4 jobs for query 'Java developer RBC'
+2026-02-05 01:28:40 [INFO] scraper: No results for query 'Java developer Deloitte'
+2026-02-05 01:28:40 [INFO] scraper: No results for query 'Java developer Pwc'
+2026-02-05 01:28:40 [INFO] scraper: No results for query 'Java developer Cisco'
+2026-02-05 01:28:41 [INFO] scraper: No results for query 'Java developer Affirm'
+2026-02-05 01:28:47 [INFO] scraper: Found 2 jobs for query 'Java developer CGI'
+2026-02-05 01:28:47 [INFO] scraper: Fetched 17 unique jobs total
+2026-02-05 01:28:47 [INFO] matcher: MATCH: 'Senior Java Developer' at 'Infoya' — 90.8%
+2026-02-05 01:28:47 [INFO] matcher: MATCH: 'Fullstack Developer - Java, Springboot, Angular' at 'TD Securities' — 89.2%
+2026-02-05 01:28:47 [INFO] matcher: MATCH: 'Lead Full Stack Developer' at 'RBC' — 86.7%
+2026-02-05 01:28:47 [INFO] matcher: MATCH: 'Senior Full Stack Engineer' at 'OPENLANE' — 78.6%
+2026-02-05 01:28:47 [INFO] matcher: MATCH: 'Tech Lead Full Stack Developer- Java, Angular' at 'RBC' — 86.7%
+2026-02-05 01:28:47 [INFO] matcher: MATCH: 'Senior Full Stack Java Developer' at 'Citi' — 81.7%
+2026-02-05 01:28:47 [INFO] matcher: MATCH: 'Lead Full Stack Java Developer' at 'Citi' — 81.7%
+2026-02-05 01:28:47 [INFO] matcher: MATCH: 'Senior Full Stack Developer' at 'RBC' — 86.7%
+2026-02-05 01:28:47 [INFO] matcher: MATCH: 'Lead Java Developer' at 'CGI' — 88.3%
+2026-02-05 01:28:47 [INFO] matcher: MATCH: 'Full Stack Developer (Angular and AWS)' at 'CGI' — 86.7%
+2026-02-05 01:28:47 [INFO] matcher: 10 jobs matched out of 17 (threshold: 70%)
+2026-02-05 01:28:47 [INFO] job-agent: All matched jobs were already notified previously
+2026-02-05 01:33:47 [INFO] job-agent: ============================================================
+2026-02-05 01:33:47 [INFO] job-agent: Starting job fetch cycle
+2026-02-05 01:33:47 [INFO] scraper: Built 21 combined search queries
+2026-02-05 01:33:47 [INFO] scraper: No results for query 'Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 01:33:48 [INFO] scraper: No results for query 'backend engineer Java Spring Boot REST API GraphQL'
+2026-02-05 01:33:48 [INFO] scraper: No results for query 'Lead Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 01:33:48 [INFO] scraper: No results for query 'Senior Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 01:33:49 [INFO] scraper: No results for query 'full stack developer Java Spring Boot REST API GraphQL'
+2026-02-05 01:33:49 [INFO] scraper: No results for query 'Senior software engineer Java Spring Boot REST API GraphQL'
+2026-02-05 01:33:59 [INFO] scraper: Found 3 jobs for query 'Java developer Google'
+2026-02-05 01:34:08 [INFO] scraper: Found 3 jobs for query 'Java developer Microsoft'
+2026-02-05 01:34:18 [INFO] scraper: Found 4 jobs for query 'Java developer Amazon'
+2026-02-05 01:34:26 [INFO] scraper: Found 1 jobs for query 'Java developer CIBC'
+2026-02-05 01:34:27 [INFO] scraper: No results for query 'Java developer Clio'
+2026-02-05 01:34:35 [INFO] scraper: Found 2 jobs for query 'Java developer Citi'
+2026-02-05 01:34:42 [INFO] scraper: Found 1 jobs for query 'Java developer TD'
+2026-02-05 01:34:42 [INFO] scraper: No results for query 'Java developer Manulife'
+2026-02-05 01:34:47 [INFO] scraper: Found 1 jobs for query 'Java developer TD'
+2026-02-05 01:34:55 [INFO] scraper: Found 4 jobs for query 'Java developer RBC'
+2026-02-05 01:34:55 [INFO] scraper: No results for query 'Java developer Deloitte'
+2026-02-05 01:34:55 [INFO] scraper: No results for query 'Java developer Pwc'
+2026-02-05 01:34:56 [INFO] scraper: No results for query 'Java developer Cisco'
+2026-02-05 01:34:56 [INFO] scraper: No results for query 'Java developer Affirm'
+2026-02-05 01:35:02 [INFO] scraper: Found 2 jobs for query 'Java developer CGI'
+2026-02-05 01:35:02 [INFO] scraper: Fetched 17 unique jobs total
+2026-02-05 01:35:02 [INFO] matcher: MATCH: 'Senior Java Developer' at 'Infoya' — 90.8%
+2026-02-05 01:35:02 [INFO] matcher: MATCH: 'Fullstack Developer - Java, Springboot, Angular' at 'TD Securities' — 89.2%
+2026-02-05 01:35:02 [INFO] matcher: MATCH: 'Lead Full Stack Developer' at 'RBC' — 86.7%
+2026-02-05 01:35:02 [INFO] matcher: MATCH: 'Senior Full Stack Engineer' at 'OPENLANE' — 78.6%
+2026-02-05 01:35:02 [INFO] matcher: MATCH: 'Tech Lead Full Stack Developer- Java, Angular' at 'RBC' — 86.7%
+2026-02-05 01:35:02 [INFO] matcher: MATCH: 'Senior Full Stack Java Developer' at 'Citi' — 81.7%
+2026-02-05 01:35:02 [INFO] matcher: MATCH: 'Lead Full Stack Java Developer' at 'Citi' — 81.7%
+2026-02-05 01:35:02 [INFO] matcher: MATCH: 'Senior Full Stack Developer' at 'RBC' — 86.7%
+2026-02-05 01:35:02 [INFO] matcher: MATCH: 'Lead Java Developer' at 'CGI' — 88.3%
+2026-02-05 01:35:02 [INFO] matcher: MATCH: 'Full Stack Developer (Angular and AWS)' at 'CGI' — 86.7%
+2026-02-05 01:35:02 [INFO] matcher: 10 jobs matched out of 17 (threshold: 70%)
+2026-02-05 01:35:02 [INFO] job-agent: All matched jobs were already notified previously
+2026-02-05 01:40:02 [INFO] job-agent: ============================================================
+2026-02-05 01:40:02 [INFO] job-agent: Starting job fetch cycle
+2026-02-05 01:40:02 [INFO] scraper: Built 21 combined search queries
+2026-02-05 01:40:03 [INFO] scraper: No results for query 'Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 01:40:03 [INFO] scraper: No results for query 'backend engineer Java Spring Boot REST API GraphQL'
+2026-02-05 01:40:04 [INFO] scraper: No results for query 'Lead Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 01:40:04 [INFO] scraper: No results for query 'Senior Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 01:40:04 [INFO] scraper: No results for query 'full stack developer Java Spring Boot REST API GraphQL'
+2026-02-05 01:40:05 [INFO] scraper: No results for query 'Senior software engineer Java Spring Boot REST API GraphQL'
+2026-02-05 01:40:12 [INFO] scraper: Found 3 jobs for query 'Java developer Google'
+2026-02-05 01:40:22 [INFO] scraper: Found 3 jobs for query 'Java developer Microsoft'
+2026-02-05 01:40:31 [INFO] scraper: Found 4 jobs for query 'Java developer Amazon'
+2026-02-05 01:40:36 [INFO] scraper: Found 1 jobs for query 'Java developer CIBC'
+2026-02-05 01:40:36 [INFO] scraper: No results for query 'Java developer Clio'
+2026-02-05 01:40:44 [INFO] scraper: Found 2 jobs for query 'Java developer Citi'
+2026-02-05 01:57:06 [WARNING] urllib3.connectionpool: Retrying (Retry(total=2, connect=3, read=None, redirect=None, status=3)) after connection broken by 'RemoteDisconnected('Remote end closed connection without response')': /jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Java+developer+TD&location=Toronto&distance=50&f_JT=F&pageNum=0&start=1&f_TPR=r86400
+2026-02-05 01:57:06 [INFO] scraper: Found 1 jobs for query 'Java developer TD'
+2026-02-05 01:57:06 [INFO] scraper: No results for query 'Java developer Manulife'
+2026-02-05 02:14:07 [WARNING] urllib3.connectionpool: Retrying (Retry(total=2, connect=3, read=None, redirect=None, status=3)) after connection broken by 'RemoteDisconnected('Remote end closed connection without response')': /jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Java+developer+TD&location=Toronto&distance=50&f_JT=F&pageNum=0&start=1&f_TPR=r86400
+2026-02-05 02:14:07 [INFO] scraper: Found 1 jobs for query 'Java developer TD'
+2026-02-05 02:29:45 [WARNING] urllib3.connectionpool: Retrying (Retry(total=2, connect=3, read=None, redirect=None, status=3)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='www.linkedin.com', port=443): Read timed out. (read timeout=5)")': /jobs/view/4299124193
+2026-02-05 02:45:55 [WARNING] urllib3.connectionpool: Retrying (Retry(total=2, connect=3, read=None, redirect=None, status=3)) after connection broken by 'RemoteDisconnected('Remote end closed connection without response')': /jobs/view/4368906265
+2026-02-05 03:01:27 [WARNING] urllib3.connectionpool: Retrying (Retry(total=2, connect=3, read=None, redirect=None, status=3)) after connection broken by 'RemoteDisconnected('Remote end closed connection without response')': /jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Java+developer+RBC&location=Toronto&distance=50&f_JT=F&pageNum=0&start=4&f_TPR=r86400
+2026-02-05 03:01:28 [INFO] scraper: Found 4 jobs for query 'Java developer RBC'
+2026-02-05 03:01:28 [INFO] scraper: No results for query 'Java developer Deloitte'
+2026-02-05 03:01:28 [INFO] scraper: No results for query 'Java developer Pwc'
+2026-02-05 03:01:29 [INFO] scraper: No results for query 'Java developer Cisco'
+2026-02-05 03:01:29 [INFO] scraper: No results for query 'Java developer Affirm'
+2026-02-05 03:18:03 [WARNING] urllib3.connectionpool: Retrying (Retry(total=2, connect=3, read=None, redirect=None, status=3)) after connection broken by 'RemoteDisconnected('Remote end closed connection without response')': /jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Java+developer+CGI&location=Toronto&distance=50&f_JT=F&pageNum=0&start=2&f_TPR=r86400
+2026-02-05 03:18:03 [INFO] scraper: Found 2 jobs for query 'Java developer CGI'
+2026-02-05 03:18:03 [INFO] scraper: Fetched 17 unique jobs total
+2026-02-05 03:18:03 [INFO] matcher: MATCH: 'Senior Java Developer' at 'Infoya' — 90.8%
+2026-02-05 03:18:03 [INFO] matcher: MATCH: 'Fullstack Developer - Java, Springboot, Angular' at 'TD Securities' — 89.2%
+2026-02-05 03:18:03 [INFO] matcher: MATCH: 'Lead Full Stack Developer' at 'RBC' — 86.7%
+2026-02-05 03:18:03 [INFO] matcher: MATCH: 'Senior Full Stack Engineer' at 'OPENLANE' — 78.6%
+2026-02-05 03:18:03 [INFO] matcher: MATCH: 'Tech Lead Full Stack Developer- Java, Angular' at 'RBC' — 86.7%
+2026-02-05 03:18:03 [INFO] matcher: MATCH: 'Senior Full Stack Java Developer' at 'Citi' — 81.7%
+2026-02-05 03:18:03 [INFO] matcher: MATCH: 'Lead Full Stack Java Developer' at 'Citi' — 81.7%
+2026-02-05 03:18:03 [INFO] matcher: MATCH: 'Senior Full Stack Developer' at 'RBC' — 86.7%
+2026-02-05 03:18:03 [INFO] matcher: MATCH: 'Lead Java Developer' at 'CGI' — 88.3%
+2026-02-05 03:18:03 [INFO] matcher: MATCH: 'Full Stack Developer (Angular and AWS)' at 'CGI' — 86.7%
+2026-02-05 03:18:03 [INFO] matcher: 10 jobs matched out of 17 (threshold: 70%)
+2026-02-05 03:18:03 [INFO] job-agent: All matched jobs were already notified previously
+2026-02-05 03:35:58 [INFO] job-agent: ============================================================
+2026-02-05 03:35:58 [INFO] job-agent: Starting job fetch cycle
+2026-02-05 03:35:58 [INFO] scraper: Built 21 combined search queries
+2026-02-05 03:35:59 [INFO] scraper: No results for query 'Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 03:36:00 [INFO] scraper: No results for query 'backend engineer Java Spring Boot REST API GraphQL'
+2026-02-05 03:36:00 [INFO] scraper: No results for query 'Lead Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 03:36:01 [INFO] scraper: No results for query 'Senior Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 03:36:01 [INFO] scraper: No results for query 'full stack developer Java Spring Boot REST API GraphQL'
+2026-02-05 03:36:01 [INFO] scraper: No results for query 'Senior software engineer Java Spring Boot REST API GraphQL'
+2026-02-05 03:41:47 [WARNING] urllib3.connectionpool: Retrying (Retry(total=2, connect=3, read=None, redirect=None, status=3)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='www.linkedin.com', port=443): Read timed out. (read timeout=5)")': /jobs/view/4345977186
+2026-02-05 03:41:54 [INFO] scraper: Found 3 jobs for query 'Java developer Google'
+2026-02-05 03:58:39 [WARNING] urllib3.connectionpool: Retrying (Retry(total=2, connect=3, read=None, redirect=None, status=3)) after connection broken by 'ConnectionResetError(54, 'Connection reset by peer')': /jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Java+developer+Microsoft&location=Toronto&distance=50&f_JT=F&pageNum=0&start=0&f_TPR=r86400
+2026-02-05 04:15:47 [WARNING] urllib3.connectionpool: Retrying (Retry(total=2, connect=3, read=None, redirect=None, status=3)) after connection broken by 'RemoteDisconnected('Remote end closed connection without response')': /jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Java+developer+Microsoft&location=Toronto&distance=50&f_JT=F&pageNum=0&start=3&f_TPR=r86400
+2026-02-05 04:15:48 [INFO] scraper: Found 3 jobs for query 'Java developer Microsoft'
+2026-02-05 04:47:55 [WARNING] urllib3.connectionpool: Retrying (Retry(total=2, connect=3, read=None, redirect=None, status=3)) after connection broken by 'RemoteDisconnected('Remote end closed connection without response')': /jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Java+developer+Amazon&location=Toronto&distance=50&f_JT=F&pageNum=0&start=4&f_TPR=r86400
+2026-02-05 04:47:55 [INFO] scraper: Found 4 jobs for query 'Java developer Amazon'
+2026-02-05 05:04:20 [WARNING] urllib3.connectionpool: Retrying (Retry(total=2, connect=3, read=None, redirect=None, status=3)) after connection broken by 'RemoteDisconnected('Remote end closed connection without response')': /jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Java+developer+CIBC&location=Toronto&distance=50&f_JT=F&pageNum=0&start=1&f_TPR=r86400
+2026-02-05 05:04:20 [INFO] scraper: Found 1 jobs for query 'Java developer CIBC'
+2026-02-05 05:04:21 [INFO] scraper: No results for query 'Java developer Clio'
+2026-02-05 05:21:42 [WARNING] urllib3.connectionpool: Retrying (Retry(total=2, connect=3, read=None, redirect=None, status=3)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='www.linkedin.com', port=443): Read timed out. (read timeout=5)")': /jobs/view/4368945036
+2026-02-05 05:39:18 [WARNING] urllib3.connectionpool: Retrying (Retry(total=2, connect=3, read=None, redirect=None, status=3)) after connection broken by 'RemoteDisconnected('Remote end closed connection without response')': /jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Java+developer+Citi&location=Toronto&distance=50&f_JT=F&pageNum=0&start=2&f_TPR=r86400
+2026-02-05 05:39:18 [INFO] scraper: Found 2 jobs for query 'Java developer Citi'
+2026-02-05 05:39:18 [INFO] scraper: No results for query 'Java developer TD'
+2026-02-05 05:39:19 [INFO] scraper: No results for query 'Java developer Manulife'
+2026-02-05 05:39:19 [INFO] scraper: No results for query 'Java developer TD'
+2026-02-05 06:12:06 [WARNING] urllib3.connectionpool: Retrying (Retry(total=2, connect=3, read=None, redirect=None, status=3)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='www.linkedin.com', port=443): Read timed out. (read timeout=10)")': /jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Java+developer+RBC&location=Toronto&distance=50&f_JT=F&pageNum=0&start=0&f_TPR=r86400
+2026-02-05 06:28:36 [WARNING] urllib3.connectionpool: Retrying (Retry(total=2, connect=3, read=None, redirect=None, status=3)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='www.linkedin.com', port=443): Read timed out. (read timeout=5)")': /jobs/view/4369462355
+2026-02-05 06:45:52 [WARNING] urllib3.connectionpool: Retrying (Retry(total=2, connect=3, read=None, redirect=None, status=3)) after connection broken by 'RemoteDisconnected('Remote end closed connection without response')': /jobs/view/4299124193
+2026-02-05 07:03:19 [WARNING] urllib3.connectionpool: Retrying (Retry(total=2, connect=3, read=None, redirect=None, status=3)) after connection broken by 'RemoteDisconnected('Remote end closed connection without response')': /jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Java+developer+RBC&location=Toronto&distance=50&f_JT=F&pageNum=0&start=4&f_TPR=r86400
+2026-02-05 07:03:20 [INFO] scraper: Found 4 jobs for query 'Java developer RBC'
+2026-02-05 07:03:20 [INFO] scraper: No results for query 'Java developer Deloitte'
+2026-02-05 07:03:21 [INFO] scraper: No results for query 'Java developer Pwc'
+2026-02-05 07:03:21 [INFO] scraper: No results for query 'Java developer Cisco'
+2026-02-05 07:03:21 [INFO] scraper: No results for query 'Java developer Affirm'
+2026-02-05 07:18:29 [WARNING] urllib3.connectionpool: Retrying (Retry(total=2, connect=3, read=None, redirect=None, status=3)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='www.linkedin.com', port=443): Read timed out. (read timeout=5)")': /jobs/view/4369264299
+2026-02-05 07:33:36 [WARNING] urllib3.connectionpool: Retrying (Retry(total=2, connect=3, read=None, redirect=None, status=3)) after connection broken by 'RemoteDisconnected('Remote end closed connection without response')': /jobs/view/4362704497
+2026-02-05 07:39:34 [INFO] scraper: Found 4 jobs for query 'Java developer CGI'
+2026-02-05 07:39:34 [INFO] scraper: Fetched 20 unique jobs total
+2026-02-05 07:39:34 [INFO] matcher: MATCH: 'Senior Java Developer' at 'Infoya' — 90.8%
+2026-02-05 07:39:34 [INFO] matcher: MATCH: 'Fullstack Developer - Java, Springboot, Angular' at 'TD Securities' — 89.2%
+2026-02-05 07:39:34 [INFO] matcher: MATCH: 'Lead Full Stack Developer' at 'RBC' — 86.7%
+2026-02-05 07:39:34 [INFO] matcher: MATCH: 'Senior Full Stack Engineer' at 'OPENLANE' — 78.6%
+2026-02-05 07:39:34 [INFO] matcher: MATCH: 'Tech Lead Full Stack Developer- Java, Angular' at 'RBC' — 86.7%
+2026-02-05 07:39:34 [INFO] matcher: MATCH: 'Senior Full Stack Java Developer' at 'Citi' — 81.7%
+2026-02-05 07:39:34 [INFO] matcher: MATCH: 'Lead Full Stack Java Developer' at 'Citi' — 81.7%
+2026-02-05 07:39:34 [INFO] matcher: MATCH: 'Lead Full Stack Developer' at 'RBC' — 86.7%
+2026-02-05 07:39:34 [INFO] matcher: MATCH: 'Lead Java Developer' at 'CGI' — 88.3%
+2026-02-05 07:39:34 [INFO] matcher: MATCH: 'Full Stack Developer (Angular and AWS)' at 'CGI' — 86.7%
+2026-02-05 07:39:34 [INFO] matcher: 10 jobs matched out of 20 (threshold: 70%)
+2026-02-05 07:39:34 [INFO] job-agent: 1 new matching job(s) to notify about
+2026-02-05 07:39:35 [ERROR] notifier: Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 6a1803df08f44-89521c18c8csm40471306d6.16 - gsmtp')
+2026-02-05 08:29:12 [INFO] notifier: WhatsApp message sent via pywhatkit
+2026-02-05 08:29:12 [INFO] storage: Stored job: Lead Full Stack Developer at RBC (score: 86.7%)
+2026-02-05 08:29:12 [INFO] job-agent: Cycle complete
+2026-02-05 08:45:31 [INFO] job-agent: ============================================================
+2026-02-05 08:45:31 [INFO] job-agent: Starting job fetch cycle
+2026-02-05 08:45:31 [INFO] scraper: Built 21 combined search queries
+2026-02-05 08:45:31 [INFO] scraper: No results for query 'Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 08:45:32 [INFO] scraper: No results for query 'backend engineer Java Spring Boot REST API GraphQL'
+2026-02-05 08:45:32 [INFO] scraper: No results for query 'Lead Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 08:45:32 [INFO] scraper: No results for query 'Senior Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 08:45:33 [INFO] scraper: No results for query 'full stack developer Java Spring Boot REST API GraphQL'
+2026-02-05 08:45:33 [INFO] scraper: No results for query 'Senior software engineer Java Spring Boot REST API GraphQL'
+2026-02-05 09:02:19 [WARNING] urllib3.connectionpool: Retrying (Retry(total=2, connect=3, read=None, redirect=None, status=3)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='www.linkedin.com', port=443): Read timed out. (read timeout=5)")': /jobs/view/4345977186
+2026-02-05 09:40:34 [WARNING] urllib3.connectionpool: Retrying (Retry(total=1, connect=3, read=None, redirect=None, status=3)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='www.linkedin.com', port=443): Read timed out. (read timeout=5)")': /jobs/view/4345977186
+2026-02-05 10:15:08 [WARNING] urllib3.connectionpool: Retrying (Retry(total=2, connect=3, read=None, redirect=None, status=3)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='www.linkedin.com', port=443): Read timed out. (read timeout=10)")': /jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Java+developer+Google&location=Toronto&distance=50&f_JT=F&pageNum=0&start=4&f_TPR=r86400
+2026-02-05 10:15:09 [INFO] scraper: Found 4 jobs for query 'Java developer Google'
+2026-02-05 10:32:26 [WARNING] urllib3.connectionpool: Retrying (Retry(total=2, connect=3, read=None, redirect=None, status=3)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='www.linkedin.com', port=443): Read timed out. (read timeout=5)")': /jobs/view/4296700289
+2026-02-05 10:58:26 [WARNING] urllib3.connectionpool: Retrying (Retry(total=1, connect=3, read=None, redirect=None, status=3)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='www.linkedin.com', port=443): Read timed out. (read timeout=5)")': /jobs/view/4296700289
+2026-02-05 11:15:55 [WARNING] urllib3.connectionpool: Retrying (Retry(total=2, connect=3, read=None, redirect=None, status=3)) after connection broken by 'RemoteDisconnected('Remote end closed connection without response')': /jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Java+developer+Microsoft&location=Toronto&distance=50&f_JT=F&pageNum=0&start=1&f_TPR=r86400
+2026-02-05 11:15:55 [INFO] scraper: Found 1 jobs for query 'Java developer Microsoft'
+2026-02-05 11:15:55 [INFO] scraper: No results for query 'Java developer Amazon'
+2026-02-05 11:33:26 [WARNING] urllib3.connectionpool: Retrying (Retry(total=2, connect=3, read=None, redirect=None, status=3)) after connection broken by 'RemoteDisconnected('Remote end closed connection without response')': /jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Java+developer+CIBC&location=Toronto&distance=50&f_JT=F&pageNum=0&start=1&f_TPR=r86400
+2026-02-05 11:33:26 [INFO] scraper: Found 1 jobs for query 'Java developer CIBC'
+2026-02-05 11:33:27 [INFO] scraper: No results for query 'Java developer Clio'
+2026-02-05 11:42:37 [WARNING] urllib3.connectionpool: Retrying (Retry(total=2, connect=3, read=None, redirect=None, status=3)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='www.linkedin.com', port=443): Read timed out. (read timeout=5)")': /jobs/view/4368930901
+2026-02-05 12:00:23 [WARNING] urllib3.connectionpool: Retrying (Retry(total=2, connect=3, read=None, redirect=None, status=3)) after connection broken by 'RemoteDisconnected('Remote end closed connection without response')': /jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Java+developer+Citi&location=Toronto&distance=50&f_JT=F&pageNum=0&start=2&f_TPR=r86400
+2026-02-05 12:00:24 [INFO] scraper: Found 2 jobs for query 'Java developer Citi'
+2026-02-05 12:00:24 [INFO] scraper: No results for query 'Java developer TD'
+2026-02-05 12:00:25 [INFO] scraper: No results for query 'Java developer Manulife'
+2026-02-05 12:00:25 [INFO] scraper: No results for query 'Java developer TD'
+2026-02-05 12:17:15 [WARNING] urllib3.connectionpool: Retrying (Retry(total=2, connect=3, read=None, redirect=None, status=3)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='www.linkedin.com', port=443): Read timed out. (read timeout=5)")': /jobs/view/4369450752
+2026-02-05 12:58:56 [WARNING] urllib3.connectionpool: Retrying (Retry(total=1, connect=3, read=None, redirect=None, status=3)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='www.linkedin.com', port=443): Read timed out. (read timeout=5)")': /jobs/view/4369450752
+2026-02-05 13:16:25 [WARNING] urllib3.connectionpool: Retrying (Retry(total=2, connect=3, read=None, redirect=None, status=3)) after connection broken by 'RemoteDisconnected('Remote end closed connection without response')': /jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Java+developer+RBC&location=Toronto&distance=50&f_JT=F&pageNum=0&start=3&f_TPR=r86400
+2026-02-05 13:16:25 [INFO] scraper: Found 3 jobs for query 'Java developer RBC'
+2026-02-05 13:16:25 [INFO] scraper: No results for query 'Java developer Deloitte'
+2026-02-05 13:16:26 [INFO] scraper: No results for query 'Java developer Pwc'
+2026-02-05 13:16:26 [INFO] scraper: No results for query 'Java developer Cisco'
+2026-02-05 13:16:26 [INFO] scraper: No results for query 'Java developer Affirm'
+2026-02-05 13:16:37 [INFO] scraper: Found 4 jobs for query 'Java developer CGI'
+2026-02-05 13:16:37 [INFO] scraper: Fetched 14 unique jobs total
+2026-02-05 13:16:37 [INFO] matcher: MATCH: 'Senior Java Developer' at 'Infoya' — 90.8%
+2026-02-05 13:16:37 [INFO] matcher: MATCH: 'Senior Full Stack Java Developer' at 'Citi' — 81.7%
+2026-02-05 13:16:37 [INFO] matcher: MATCH: 'Lead Full Stack Java Developer' at 'Citi' — 81.7%
+2026-02-05 13:16:37 [INFO] matcher: MATCH: 'Lead Full Stack Developer' at 'RBC' — 86.7%
+2026-02-05 13:16:37 [INFO] matcher: MATCH: 'Full Stack Developer (Angular and AWS)' at 'CGI' — 86.7%
+2026-02-05 13:16:37 [INFO] matcher: MATCH: 'Java Full Stack Development Lead' at 'CGI' — 85.0%
+2026-02-05 13:16:37 [INFO] matcher: 6 jobs matched out of 14 (threshold: 70%)
+2026-02-05 13:16:37 [INFO] job-agent: 1 new matching job(s) to notify about
+2026-02-05 13:16:38 [ERROR] notifier: Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d75a77b69052e-5063913e7bfsm68461cf.2 - gsmtp')
+2026-02-05 13:44:35 [INFO] notifier: WhatsApp message sent via pywhatkit
+2026-02-05 13:44:35 [INFO] storage: Stored job: Java Full Stack Development Lead at CGI (score: 85.0%)
+2026-02-05 13:44:35 [INFO] job-agent: Cycle complete
+2026-02-05 13:55:53 [INFO] job-agent: ============================================================
+2026-02-05 13:55:53 [INFO] job-agent: Starting job fetch cycle
+2026-02-05 13:55:53 [INFO] scraper: Built 21 combined search queries
+2026-02-05 13:55:53 [INFO] scraper: No results for query 'Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 13:55:54 [INFO] scraper: No results for query 'backend engineer Java Spring Boot REST API GraphQL'
+2026-02-05 13:55:54 [INFO] scraper: No results for query 'Lead Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 13:55:54 [INFO] scraper: No results for query 'Senior Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 13:55:55 [INFO] scraper: No results for query 'full stack developer Java Spring Boot REST API GraphQL'
+2026-02-05 13:55:55 [INFO] scraper: No results for query 'Senior software engineer Java Spring Boot REST API GraphQL'
+2026-02-05 13:56:04 [INFO] scraper: Found 3 jobs for query 'Java developer Google'
+2026-02-05 13:56:11 [INFO] scraper: Found 1 jobs for query 'Java developer Microsoft'
+2026-02-05 13:56:11 [INFO] scraper: No results for query 'Java developer Amazon'
+2026-02-05 13:56:18 [INFO] scraper: Found 1 jobs for query 'Java developer CIBC'
+2026-02-05 13:56:18 [INFO] scraper: No results for query 'Java developer Clio'
+2026-02-05 13:56:24 [INFO] scraper: Found 2 jobs for query 'Java developer Citi'
+2026-02-05 13:56:25 [INFO] scraper: No results for query 'Java developer TD'
+2026-02-05 13:56:25 [INFO] scraper: No results for query 'Java developer Manulife'
+2026-02-05 13:56:25 [INFO] scraper: No results for query 'Java developer TD'
+2026-02-05 13:56:35 [INFO] scraper: Found 3 jobs for query 'Java developer RBC'
+2026-02-05 13:56:36 [INFO] scraper: No results for query 'Java developer Deloitte'
+2026-02-05 13:56:36 [INFO] scraper: No results for query 'Java developer Pwc'
+2026-02-05 13:56:36 [INFO] scraper: No results for query 'Java developer Cisco'
+2026-02-05 13:56:37 [INFO] scraper: No results for query 'Java developer Affirm'
+2026-02-05 13:56:46 [INFO] scraper: Found 4 jobs for query 'Java developer CGI'
+2026-02-05 13:56:46 [INFO] scraper: Fetched 13 unique jobs total
+2026-02-05 13:56:46 [INFO] matcher: MATCH: 'Senior Java Developer' at 'Infoya' — 90.8%
+2026-02-05 13:56:46 [INFO] matcher: MATCH: 'Senior Full Stack Java Developer' at 'Citi' — 81.7%
+2026-02-05 13:56:46 [INFO] matcher: MATCH: 'Lead Full Stack Java Developer' at 'Citi' — 81.7%
+2026-02-05 13:56:46 [INFO] matcher: MATCH: 'Lead Full Stack Developer' at 'RBC' — 86.7%
+2026-02-05 13:56:46 [INFO] matcher: MATCH: 'Full Stack Developer (Angular and AWS)' at 'CGI' — 86.7%
+2026-02-05 13:56:46 [INFO] matcher: MATCH: 'Java Full Stack Development Lead' at 'CGI' — 85.0%
+2026-02-05 13:56:46 [INFO] matcher: 6 jobs matched out of 13 (threshold: 70%)
+2026-02-05 13:56:46 [INFO] job-agent: All matched jobs were already notified previously
+2026-02-05 13:58:58 [INFO] job-agent: Agent stopped by user
+2026-02-05 14:09:24 [INFO] job-agent: LinkedIn Job Fetch Agent started
+2026-02-05 14:09:24 [INFO] job-agent: Checking every 5 minute(s)
+2026-02-05 14:09:24 [INFO] job-agent: Keywords: ['Java developer', 'backend engineer', 'Lead Java developer', 'Senior Java developer', 'full stack developer', 'Senior software engineer']
+2026-02-05 14:09:24 [INFO] job-agent: Companies: ['Google', 'Microsoft', 'Amazon', 'CIBC', 'Clio', 'Citi', 'TD', 'Manulife', 'TD', 'RBC', 'Deloitte', 'Pwc', 'Cisco', 'Affirm', 'CGI']
+2026-02-05 14:09:24 [INFO] job-agent: Match threshold: 70%
+2026-02-05 14:09:24 [INFO] job-agent: ============================================================
+2026-02-05 14:09:24 [INFO] job-agent: Starting job fetch cycle
+2026-02-05 14:09:24 [INFO] scraper: Built 21 combined search queries
+2026-02-05 14:09:25 [INFO] scraper: No results for query 'Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 14:09:26 [INFO] scraper: No results for query 'backend engineer Java Spring Boot REST API GraphQL'
+2026-02-05 14:09:26 [INFO] scraper: No results for query 'Lead Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 14:09:27 [INFO] scraper: No results for query 'Senior Java developer Java Spring Boot REST API GraphQL'
+2026-02-05 14:09:27 [INFO] scraper: No results for query 'full stack developer Java Spring Boot REST API GraphQL'
+2026-02-05 14:09:27 [INFO] scraper: No results for query 'Senior software engineer Java Spring Boot REST API GraphQL'
+2026-02-05 14:09:36 [INFO] scraper: Found 3 jobs for query 'Java developer Google'
+2026-02-05 14:09:42 [INFO] scraper: Found 1 jobs for query 'Java developer Microsoft'
+2026-02-05 14:09:43 [INFO] scraper: No results for query 'Java developer Amazon'
+2026-02-05 14:09:43 [INFO] scraper: No results for query 'Java developer CIBC'
+2026-02-05 14:09:44 [INFO] scraper: No results for query 'Java developer Clio'
+2026-02-05 14:09:51 [INFO] scraper: Found 2 jobs for query 'Java developer Citi'
+2026-02-05 14:09:52 [INFO] scraper: No results for query 'Java developer TD'
+2026-02-05 14:09:52 [INFO] scraper: No results for query 'Java developer Manulife'
+2026-02-05 14:09:53 [INFO] scraper: No results for query 'Java developer TD'
+2026-02-05 14:10:02 [INFO] scraper: Found 3 jobs for query 'Java developer RBC'
+2026-02-05 14:10:02 [INFO] scraper: No results for query 'Java developer Deloitte'
+2026-02-05 14:10:02 [INFO] scraper: No results for query 'Java developer Pwc'
+2026-02-05 14:10:03 [INFO] scraper: No results for query 'Java developer Cisco'
+2026-02-05 14:10:03 [INFO] scraper: No results for query 'Java developer Affirm'
+2026-02-05 14:10:11 [INFO] scraper: Found 4 jobs for query 'Java developer CGI'
+2026-02-05 14:10:11 [INFO] scraper: Fetched 12 unique jobs total
+2026-02-05 14:10:11 [INFO] matcher: MATCH: 'Senior Java Developer' at 'Infoya' — 90.8%
+2026-02-05 14:10:11 [INFO] matcher: MATCH: 'Senior Full Stack Java Developer' at 'Citi' — 81.7%
+2026-02-05 14:10:11 [INFO] matcher: MATCH: 'Lead Full Stack Java Developer' at 'Citi' — 81.7%
+2026-02-05 14:10:11 [INFO] matcher: MATCH: 'Lead Full Stack Developer' at 'RBC' — 86.7%
+2026-02-05 14:10:11 [INFO] matcher: MATCH: 'Java Full Stack Development Lead' at 'CGI' — 85.0%
+2026-02-05 14:10:11 [INFO] matcher: MATCH: 'Full Stack Developer (Angular and AWS)' at 'CGI' — 86.7%
+2026-02-05 14:10:11 [INFO] matcher: 6 jobs matched out of 12 (threshold: 70%)
+2026-02-05 14:10:11 [INFO] job-agent: All matched jobs were already notified previously

@@ -1,0 +1,25 @@
+Date: 4/2/2026
+Time: 23:41
+Phone Number: +918919011219
+Message: *1 New Job Match!*1. *Test Job* Company: TestCo Location: Mumbai Score: 95% Link: https://linkedin.com
+--------------------
+Date: 5/2/2026
+Time: 0:1
+Phone Number: +918919011219
+Message: *9 New Job Matches!*1. *Fullstack Developer - Java, Springboot, Angular* Company: TD Securities Location: Toronto, Ontario, Canada Score: 89% Link: https://www.linkedin.com/jobs/view/43690462162. *Lead Full Stack Developer* Company: RBC Location: Toronto, Ontario, Canada Score: 87% Link: https://www.linkedin.com/jobs/view/43690552203. *Senior Full Stack Engineer* Company: OPENLANE Location: Toronto, Ontario, Canada Score: 79% Link: https://www.linkedin.com/jobs/view/43460761184. *Tech Lead Full Stack Developer- Java, Angular* Company: RBC Location: Toronto, Ontario, Canada Score: 87% Link: https://www.linkedin.com/jobs/view/42991241935. *Senior Full Stack Java Developer* Company: Citi Location: Mississauga, Ontario, Canada Score: 82% Link: https://www.linkedin.com/jobs/view/43689309016. *Lead Full Stack Java Developer* Company: Citi Location: Mississauga, Ontario, Canada Score: 82% Link: https://www.linkedin.com/jobs/view/43689450367. *Senior Full Stack Developer* Company: RBC Location: Toronto, Ontario, Canada Score: 87% Link: https://www.linkedin.com/jobs/view/43690413518. *Lead Java Developer* Company: CGI Location: Toronto, Ontario, Canada Score: 88% Link: https://www.linkedin.com/jobs/view/43613482119. *Full Stack Developer (Angular and AWS)* Company: CGI Location: Toronto, Ontario, Canada Score: 87% Link: https://www.linkedin.com/jobs/view/4369264299
+--------------------
+Date: 5/2/2026
+Time: 0:51
+Phone Number: +918919011219
+Message: *1 New Job Match!*1. *Senior Java Developer* Company: Infoya Location: Toronto, Ontario, Canada Score: 88% Link: https://www.linkedin.com/jobs/view/4368944631
+--------------------
+Date: 5/2/2026
+Time: 8:13
+Phone Number: +918919011219
+Message: *1 New Job Match!*1. *Lead Full Stack Developer* Company: RBC Location: Toronto, Ontario, Canada Score: 87% Link: https://www.linkedin.com/jobs/view/4369450752
+--------------------
+Date: 5/2/2026
+Time: 13:34
+Phone Number: +918919011219
+Message: *1 New Job Match!*1. *Java Full Stack Development Lead* Company: CGI Location: Toronto, Ontario, Canada Score: 85% Link: https://www.linkedin.com/jobs/view/4362714466
+--------------------
