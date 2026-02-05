@@ -1,5 +1,4 @@
 import logging
-import os
 import sys
 import time
 
@@ -94,7 +93,7 @@ def main():
         run_pipeline(config)
         return
 
-    # Continuous mode (for local development)
+    # Continuous mode
     interval = config.get("schedule", {}).get("interval_minutes", 5)
     logger.info(f"Checking every {interval} minute(s)")
 
