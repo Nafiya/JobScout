@@ -52,6 +52,8 @@ criteria:
     - "Cisco"
     - "Affirm"
     - "CGI"
+    - "Capgemini"
+    - "Scotiabank"
   location: "Toronto"
   experience_level: "mid-senior"   # entry, mid-senior, director
   job_type: "full-time"            # full-time, part-time, contract, remote
